@@ -1,7 +1,6 @@
 # 💫 About Me:
  <br>🎓 I’m currently studying: B.Tech in Artificial Intelligence & Machine Learning, Chennai.<br>🚀I'm currently leveling up my AI, game dev, and creative coding arsenal.<br> 🤝 I'm looking to collaborate with creative minds who love building cool, futuristic stuff. <br>🧑‍💻 I'm diving into cutting-edge AI techniques like reinforcement learning, neural architecture search, and autonomous decision-making.  <br>⚡ Fun fact: I once solved a coding problem by taking a break, only to realize the solution while making a cup of coffee.<br><br>
 
-![Visitor Count](https://profile-counter.glitch.me/MUKILAN0608/count.svg)
 
 
 ## 🌐 Socials:
