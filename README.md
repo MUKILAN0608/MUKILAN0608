@@ -1,7 +1,6 @@
 # 💫 About Me:
  <br>🎓 I’m currently studying: B.Tech in Artificial Intelligence & Machine Learning, Chennai.<br>🚀I'm currently leveling up my AI, game dev, and creative coding arsenal.<br> 🤝 I'm looking to collaborate with creative minds who love building cool, futuristic stuff. <br>🧑‍💻 I'm diving into cutting-edge AI techniques like reinforcement learning, neural architecture search, and autonomous decision-making.  <br>⚡ Fun fact: I once solved a coding problem by taking a break, only to realize the solution while making a cup of coffee.<br><br>
 
-![Visitor Count](https://profile-counter.glitch.me/MUKILAN0608/count.svg)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/scienceislife) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mukil_nexus_58152) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukilan-a-m-a4a59a28b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mukilanam193) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30369307) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/MUKILAN-887) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ammukilan06@gmail.com) 
