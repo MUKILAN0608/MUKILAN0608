@@ -12,6 +12,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30369307) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/MUKILAN-887) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ammukilan06@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/Bubbly_Distance_7627/) 
+[![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/MUKILAN-887)
 
 
 # 💻 Tech Stack:
