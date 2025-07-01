@@ -143,7 +143,7 @@ const mukilanProfile: TechArchitect = {
 ## **Professional Network & Collaboration**
 
 <div align="center">
-### ** Professional Platforms**
+ ### ** Professional Platforms**
 <a href="https://linkedin.com/in/mukilan-a-m-a4a59a28b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
