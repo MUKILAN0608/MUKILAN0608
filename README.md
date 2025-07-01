@@ -166,9 +166,6 @@ const mukilanProfile: TechArchitect = {
   <img width="88%" src="https://streak-stats.demolab.com/?user=MUKILAN0608&theme=tokyonight&hide_border=true&background=0D1117&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=4169E1&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
 </div>
 
-<div align="center">
-  <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MUKILAN0608&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=4169E1&line=4169E1&point=C9D1D9&area_color=0D1117&title_color=4169E1&area=true&hide_border=true"/>
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN0608&theme=tokyonight&hide_border=true"/>
