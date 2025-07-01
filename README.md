@@ -6,8 +6,12 @@
 
 </div>
 
+</div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,33,61,105&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:1E90FF&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+</div>
+<div align="center">
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
 <div align="center">
