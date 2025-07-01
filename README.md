@@ -1,17 +1,8 @@
-# <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=2200&pause=700&color=00FFFF&center=true&vCenter=true&multiline=true&width=1100&height=150&lines=MUKILAN+A+M;AI+Engineer+%7C+Innovation+Pioneer;Technology+Architect+%7C+Problem+Solver;ML+%26+DL+Enthusiast+%7C+Game+Dev+Hobbyist;Tech+Explorer" alt="Typing SVG">
-
-</div>
-
-
+# <div align="center">![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=MUKILAN+A+M;AI+Engineer+%7C+Innovation+Pioneer;Technology+Architect+%7C+Problem+Solver)</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5,6,7&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=180&section=header&text=Step%20Into%20My%20Innovation%20Hub&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 </div>
-
-
-
 
 <div align="center">
   <img width="800" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
@@ -239,8 +230,7 @@ const mukilanProfile: TechArchitect = {
 ### **Ready to architect innovative solutions together?**
 ### **Let's transform concepts into cutting-edge reality!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5,6,7&height=120&section=footer&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=120&section=footer&animation=fadeIn"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MUKILAN0608&color=00D9FF&style=for-the-badge&label=PROFILE+VISITORS"/>
