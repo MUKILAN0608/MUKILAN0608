@@ -155,43 +155,42 @@ const mukilanProfile: TechArchitect = {
 ## **Professional Network & Collaboration**
 
 <div align="center">
-
-### **Professional Platforms**
+### ** Professional Platforms**
 <a href="https://linkedin.com/in/mukilan-a-m-a4a59a28b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
 <a href="https://medium.com/@mukilanam193" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-4169E1?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" alt="Medium"/>
 </a>
 <a href="https://stackoverflow.com/users/30369307" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-4169E1?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow"/>
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0D1117" alt="Stack Overflow"/>
 </a>
 <a href="https://www.quora.com/profile/MUKILAN-887" target="_blank">
-  <img src="https://img.shields.io/badge/Quora-4169E1?style=for-the-badge&logo=quora&logoColor=white&labelColor=0D1117" alt="Quora"/>
+  <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white&labelColor=0D1117" alt="Quora"/>
 </a>
 
-### **Creative Portfolio**
+### ** Creative Portfolio**
 <a href="https://ammukilan.itch.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Itch.io-4169E1?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=0D1117" alt="Itch.io"/>
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=0D1117" alt="Itch.io"/>
 </a>
 <a href="https://behance.net/scienceislife" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-4169E1?style=for-the-badge&logo=behance&logoColor=white&labelColor=0D1117" alt="Behance"/>
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=0D1117" alt="Behance"/>
 </a>
 <a href="https://codepen.io/MUKILAN-887" target="_blank">
-  <img src="https://img.shields.io/badge/CodePen-4169E1?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0D1117" alt="CodePen"/>
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0D1117" alt="CodePen"/>
 </a>
 
-### **Community Engagement**
+### ** Community Engagement**
 <a href="https://discord.gg/mukil_nexus_58152" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-4169E1?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
 </a>
 <a href="https://www.reddit.com/user/Bubbly_Distance_7627/" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-4169E1?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0D1117" alt="Reddit"/>
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0D1117" alt="Reddit"/>
 </a>
 
 ### **Direct Communication**
 <a href="mailto:ammukilan06@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-4169E1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 </a>
 
 </div>
