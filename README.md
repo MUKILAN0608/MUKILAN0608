@@ -238,7 +238,7 @@ const mukilanProfile: TechArchitect = {
 ### **Ready to architect innovative solutions together?**
 ### **Let's transform concepts into cutting-edge reality!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,5,6,7&height=120&section=footer&animation=fadeIn"/>
 
 
 <div align="center">
