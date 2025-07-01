@@ -246,3 +246,5 @@ const mukilanProfile: TechArchitect = {
 ### **Appreciate the innovation? Show your support with a star!**
 
 </div>
+
+<hr style="border: 0; height: 3px; background: linear-gradient(90deg, rgba(65,105,225,0) 0%, #4169E1 50%, rgba(65,105,225,0) 100%); margin: 32px 0;" />
