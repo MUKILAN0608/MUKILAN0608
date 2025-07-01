@@ -152,14 +152,6 @@ const mukilanProfile: TechArchitect = {
 
 ---
 
-## **Performance Metrics & Statistics**
-
-- Active contributor on GitHub.
-- Focused on AI, ML, and automation projects.
-- Regularly collaborate and share code with the community.
-
----
-
 ## **Professional Network & Collaboration**
 
 <div align="center">
@@ -191,15 +183,15 @@ const mukilanProfile: TechArchitect = {
 
 ### **Community Engagement**
 <a href="https://discord.gg/mukil_nexus_58152" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-4169E1?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
 </a>
 <a href="https://www.reddit.com/user/Bubbly_Distance_7627/" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0D1117" alt="Reddit"/>
+  <img src="https://img.shields.io/badge/Reddit-4169E1?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0D1117" alt="Reddit"/>
 </a>
 
 ### **Direct Communication**
 <a href="mailto:ammukilan06@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-4169E1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 </a>
 
 </div>
