@@ -1,4 +1,4 @@
-#<div align="center">
+<div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=38&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=MUKILAN+A+M;AI+Engineer+%7C+Innovation+Pioneer;Technology+Architect+%7C+Problem+Solver;ML+%26+DL+Enthusiast+%7C+Game+Dev+Hobbyist;Tech+Explorer" alt="Typing SVG">
 
