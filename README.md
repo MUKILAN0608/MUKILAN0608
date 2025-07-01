@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=180&section=header&text=Crafting%20the%20Future%20with%20Code%20and%20Creativity&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 </div>
 
 <div align="center">
