@@ -1,4 +1,9 @@
-# <div align="center">![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=MUKILAN+A+M;AI+Engineer+%7C+Innovation+Pioneer;Technology+Architect+%7C+Problem+Solver)</div>
+# <div align="center">
+  
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=MUKILAN+A+M;AI+Engineer+%7C+Innovation+Pioneer;Technology+Architect+%7C+Problem+Solver)
+
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
