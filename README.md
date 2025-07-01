@@ -60,19 +60,7 @@ const mukilanProfile: TechArchitect = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </div>
 
-### **Professional Mission Statement**
-> Dedicated to pursuing **advanced, cutting-edge projects** and developing **intelligent, innovative solutions**. Currently specializing in state-of-the-art AI methodologies including **reinforcement learning**, **neural architecture optimization**, and **autonomous intelligence systems**.
 
-### **Core Motivations**
-<div align="center">
-  
-| **AI Research** | **Interactive Media** | **Smart Systems** | **Creative Technology** |
-|:---:|:---:|:---:|:---:|
-| Advancing ML/DL frontiers | Crafting engaging experiences | Developing intelligent solutions | Bridging art and technology |
-
-</div>
-
----
 
 ## **Technology Stack**
 
