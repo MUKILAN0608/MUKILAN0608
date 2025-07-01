@@ -148,8 +148,9 @@ const mukilanProfile: TechArchitect = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=customHexList&customHexList=00D9FF,00D9FF,00D9FF,00D9FF&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 </div>
+
 
 ---
 
