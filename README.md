@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
 ---
@@ -169,43 +169,6 @@ const mukilanProfile: TechArchitect = {
 
 ---
 
-## 🚀 **Active Projects & Continuous Learning**
-
-<div align="center">
-
-### 🔬 **Development Pipeline**
-```python
-innovation_portfolio = {
-    "🤖 AI Research": [
-        "Neural Architecture Search Implementation",
-        "Advanced Reinforcement Learning Agents",
-        "Computer Vision for Autonomous Systems"
-    ],
-    "🎮 Interactive Development": [
-        "Immersive 3D Gaming Environments",
-        "AI-Enhanced Non-Player Characters"
-    ],
-    "🌐 Web Solutions": [
-        "AI-Integrated Dashboard Platforms",
-        "Real-time Collaborative Applications"
-    ]
-}
-```
-
-### 📚 **Skill Enhancement Focus Areas**
-<div align="center">
-
-![Deep Reinforcement Learning](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-🧠-blue?style=for-the-badge&labelColor=0D1117)
-![Neural Architecture Search](https://img.shields.io/badge/Neural%20Architecture%20Search-⚡-green?style=for-the-badge&labelColor=0D1117)
-![Advanced Game AI](https://img.shields.io/badge/Advanced%20Game%20AI-🎮-red?style=for-the-badge&labelColor=0D1117)
-![Generative AI Systems](https://img.shields.io/badge/Generative%20AI%20Systems-✨-purple?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
-</div>
-
----
-
 ## 🌐 **Professional Network & Collaboration**
 
 <div align="center">
@@ -258,7 +221,7 @@ innovation_portfolio = {
 
 <div align="center">
   
-<img align="center" alt="Collaboration GIF" width="500" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+<img align="center" alt="Professional Collaboration" width="600" height="300" src="https://user-images.githubusercontent.com/74038190/213760677-e5b7b3f2-9f68-4cb1-9f1b-0f7e936a3c57.gif"/>
 
 ### **🚀 Ready to architect innovative solutions together?**
 ### **Let's transform concepts into cutting-edge reality!**
