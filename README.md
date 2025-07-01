@@ -1,4 +1,4 @@
-# MUKILAN A M - Professional README
+# README.md
 
 <div align="center">
   
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:1E90FF&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,33,61,105&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 </div>
 
 <div align="center">
@@ -190,18 +190,18 @@ const mukilanProfile: TechArchitect = {
 ### **Ready to architect innovative solutions together?**
 ### **Let's transform concepts into cutting-edge reality!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:1E90FF&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,33,61,105&height=120&section=footer&animation=fadeIn"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MUKILAN0608&color=4169E1&style=for-the-badge&label=PROFILE+VISITORS"/>
 </div>
 
-### **Appreciate the innovation? Show your support with a star! ⭐**
+### **Appreciate the innovation? Show your support with a star!**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!;Let's+build+the+future+together!;Innovation+awaits..." alt="Closing Animation"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 </div>
