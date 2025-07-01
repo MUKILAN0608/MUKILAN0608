@@ -154,26 +154,9 @@ const mukilanProfile: TechArchitect = {
 
 ## **Performance Metrics & Statistics**
 
-<div align="center">
-  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=4169E1&text_color=C9D1D9&custom_title=GitHub%20Performance%20Analytics"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4169E1&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
-
-</div>
-
-<div align="center">
-  <img width="88%" src="https://streak-stats.demolab.com/?user=MUKILAN0608&theme=tokyonight&hide_border=true&background=0D1117&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakLabel=4169E1&sideLabels=4169E1&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN0608&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</div>
+- Active contributor on GitHub.
+- Focused on AI, ML, and automation projects.
+- Regularly collaborate and share code with the community.
 
 ---
 
