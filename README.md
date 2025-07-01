@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 **Professional Overview**
+## **Professional Overview**
 
 <img align="right" alt="Machine Learning Animation" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
@@ -29,18 +29,18 @@ const mukilanProfile: TechArchitect = {
   identity: "Mukilan A M",
   specialization: "AI/ML Engineer & Innovation Architect",
   academicBackground: "B.Tech AI & ML | Chennai Institute",
-  headquarters: "Chennai, Tamil Nadu, India 🇮🇳",
+  headquarters: "Chennai, Tamil Nadu, India",
   expertise: [
-    "🧠 Advanced Neural Networks & Deep Learning",
-    "🎯 Reinforcement Learning Systems",
-    "🎮 Interactive Game Development",
-    "💡 Creative AI & Generative Solutions",
-    "🤖 Intelligent Automation Architecture"
+    "Advanced Neural Networks & Deep Learning",
+    "Reinforcement Learning Systems",
+    "Interactive Game Development",
+    "Creative AI & Generative Solutions",
+    "Intelligent Automation Architecture"
   ],
   activeDevelopment: [
-    "🔬 Cutting-edge AI Research Projects",
-    "🎮 Next-generation Gaming Experiences",
-    "⚡ Smart Automation Frameworks"
+    "Cutting-edge AI Research Projects",
+    "Next-generation Gaming Experiences",
+    "Smart Automation Frameworks"
   ],
   vision: "Transforming complex challenges into innovative solutions"
 };
@@ -52,13 +52,13 @@ const mukilanProfile: TechArchitect = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </div>
 
-### 🚀 **Professional Mission Statement**
+### **Professional Mission Statement**
 > Dedicated to pursuing **advanced, cutting-edge projects** and developing **intelligent, innovative solutions**. Currently specializing in state-of-the-art AI methodologies including **reinforcement learning**, **neural architecture optimization**, and **autonomous intelligence systems**.
 
-### ⚡ **Core Motivations**
+### **Core Motivations**
 <div align="center">
   
-| 🧠 **AI Research** | 🎮 **Interactive Media** | 🤖 **Smart Systems** | 🎨 **Creative Technology** |
+| **AI Research** | **Interactive Media** | **Smart Systems** | **Creative Technology** |
 |:---:|:---:|:---:|:---:|
 | Advancing ML/DL frontiers | Crafting engaging experiences | Developing intelligent solutions | Bridging art and technology |
 
@@ -66,7 +66,7 @@ const mukilanProfile: TechArchitect = {
 
 ---
 
-## 🔧 **Technology Stack**
+## **Technology Stack**
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" />
@@ -91,7 +91,7 @@ const mukilanProfile: TechArchitect = {
 
 </div>
 
-### **Artificial Intelligence & Machine Learning** 🧠
+### **Artificial Intelligence & Machine Learning**
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
@@ -104,7 +104,7 @@ const mukilanProfile: TechArchitect = {
 
 </div>
 
-### **Frontend Development & User Interface** 🌐
+### **Frontend Development & User Interface**
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
@@ -116,7 +116,7 @@ const mukilanProfile: TechArchitect = {
 
 </div>
 
-### **Backend Architecture & Data Management** ⚡
+### **Backend Architecture & Data Management**
 <div align="center">
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)
@@ -128,7 +128,7 @@ const mukilanProfile: TechArchitect = {
 
 </div>
 
-### **Development Tools & Design Platforms** 🛠️
+### **Development Tools & Design Platforms**
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
@@ -145,13 +145,13 @@ const mukilanProfile: TechArchitect = {
 
 ---
 
-## 📈 **Performance Metrics & Statistics**
+## **Performance Metrics & Statistics**
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&custom_title=⚡%20GitHub%20Performance%20Analytics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&custom_title=GitHub%20Performance%20Analytics"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=🔥%20Most%20Used%20Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages"/>
 
 </div>
 
@@ -160,7 +160,7 @@ const mukilanProfile: TechArchitect = {
 </div>
 
 <div align="center">
-  <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MUKILAN0608&custom_title=📊%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true"/>
+  <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MUKILAN0608&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -173,11 +173,11 @@ const mukilanProfile: TechArchitect = {
 
 ---
 
-## 🌐 **Professional Network & Collaboration**
+## **Professional Network & Collaboration**
 
 <div align="center">
 
-### **📊 Professional Platforms**
+### **Professional Platforms**
 <a href="https://linkedin.com/in/mukilan-a-m-a4a59a28b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
@@ -191,7 +191,7 @@ const mukilanProfile: TechArchitect = {
   <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white&labelColor=0D1117" alt="Quora"/>
 </a>
 
-### **🎨 Creative Portfolio**
+### **Creative Portfolio**
 <a href="https://ammukilan.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=0D1117" alt="Itch.io"/>
 </a>
@@ -202,7 +202,7 @@ const mukilanProfile: TechArchitect = {
   <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0D1117" alt="CodePen"/>
 </a>
 
-### **💬 Community Engagement**
+### **Community Engagement**
 <a href="https://discord.gg/mukil_nexus_58152" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
 </a>
@@ -210,7 +210,7 @@ const mukilanProfile: TechArchitect = {
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0D1117" alt="Reddit"/>
 </a>
 
-### **📧 Direct Communication**
+### **Direct Communication**
 <a href="mailto:ammukilan06@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 </a>
@@ -227,7 +227,7 @@ const mukilanProfile: TechArchitect = {
   
 <img align="center" alt="Professional Collaboration" width="600" height="300" src="https://user-images.githubusercontent.com/74038190/213760677-e5b7b3f2-9f68-4cb1-9f1b-0f7e936a3c57.gif"/>
 
-### **🚀 Ready to architect innovative solutions together?**
+### **Ready to architect innovative solutions together?**
 ### **Let's transform concepts into cutting-edge reality!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=120&section=footer&animation=fadeIn"/>
@@ -236,6 +236,6 @@ const mukilanProfile: TechArchitect = {
   <img src="https://komarev.com/ghpvc/?username=MUKILAN0608&color=00D9FF&style=for-the-badge&label=PROFILE+VISITORS"/>
 </div>
 
-### ⭐ **Appreciate the innovation? Show your support with a star!** ⭐
+### **Appreciate the innovation? Show your support with a star!**
 
 </div>
