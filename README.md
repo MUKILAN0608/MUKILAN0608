@@ -149,18 +149,22 @@ const mukilanProfile: TechArchitect = {
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&custom_title=⚡%20Performance%20Analytics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&custom_title=⚡%20GitHub%20Performance%20Analytics"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=🔥%20Technology%20Distribution"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=🔥%20Most%20Used%20Languages"/>
 
 </div>
 
 <div align="center">
-  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN0608&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9"/>
+  <img width="88%" src="https://streak-stats.demolab.com/?user=MUKILAN0608&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&custom_title=📊%20Development%20Activity%20Timeline&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true"/>
+  <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MUKILAN0608&custom_title=📊%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN0608&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
