@@ -190,7 +190,7 @@ const mukilanProfile: TechArchitect = {
 ### **Ready to architect innovative solutions together?**
 ### **Let's transform concepts into cutting-edge reality!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,33,61,105&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:1E90FF&height=120&section=footer&animation=fadeIn"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MUKILAN0608&color=4169E1&style=for-the-badge&label=PROFILE+VISITORS"/>
