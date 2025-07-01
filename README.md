@@ -240,6 +240,7 @@ const mukilanProfile: TechArchitect = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=120&section=footer&animation=fadeIn"/>
 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MUKILAN0608&color=00D9FF&style=for-the-badge&label=PROFILE+VISITORS"/>
 </div>
