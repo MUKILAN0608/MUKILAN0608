@@ -6,11 +6,10 @@
 
 
 
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=180&section=header&text=Step%20Into%20My%20Innovation%20Hub&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=180&section=header&text=Crafting%20the%20Future%20with%20Code%20%26%20Creativity&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 </div>
+
 
 <div align="center">
   <img width="800" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
