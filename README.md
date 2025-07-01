@@ -4,9 +4,13 @@
 
 </div>
 
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 </div>
+
+
 
 <div align="center">
   <img width="800" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
@@ -164,7 +168,7 @@ const mukilanProfile: TechArchitect = {
 </div>
 
 <div align="center">
-  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true"/>
+  <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=MUKILAN0608&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area_color=0D1117&title_color=00D9FF&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -173,30 +177,6 @@ const mukilanProfile: TechArchitect = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</div>
-
----
-
-## **Featured Projects Showcase**
-
-<div align="center">
-  
-### 🚀 **Latest AI Innovations**
-
-[![AI Project 1](https://img.shields.io/badge/Neural_Network_Optimizer-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)](https://github.com/MUKILAN0608)
-[![AI Project 2](https://img.shields.io/badge/Reinforcement_Learning_Agent-FF6B6B?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)](https://github.com/MUKILAN0608)
-[![AI Project 3](https://img.shields.io/badge/Computer_Vision_Pipeline-00FF88?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117)](https://github.com/MUKILAN0608)
-
-### 🎮 **Interactive Gaming Projects**
-
-[![Game 1](https://img.shields.io/badge/3D_Adventure_Game-9B59B6?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D1117)](https://ammukilan.itch.io/)
-[![Game 2](https://img.shields.io/badge/AI_Powered_Strategy-E74C3C?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)](https://ammukilan.itch.io/)
-
-### 💻 **Web Development Solutions**
-
-[![Web App 1](https://img.shields.io/badge/Smart_Dashboard-3498DB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)](https://github.com/MUKILAN0608)
-[![Web App 2](https://img.shields.io/badge/ML_Model_Deployment-F39C12?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)](https://github.com/MUKILAN0608)
-
 </div>
 
 ---
@@ -251,40 +231,6 @@ const mukilanProfile: TechArchitect = {
 
 ---
 
-## **Current Focus & Future Goals**
-
-<div align="center">
-
-### 🎯 **2025 Objectives**
-
-```mermaid
-graph TD
-    A[Advanced AI Research] --> B[Deep Learning Optimization]
-    A --> C[Reinforcement Learning Applications]
-    D[Creative Technology] --> E[Interactive Gaming Experiences]
-    D --> F[Generative AI Solutions]
-    G[Professional Growth] --> H[Industry Collaboration]
-    G --> I[Open Source Contributions]
-    
-    style A fill:#00D9FF,stroke:#0D1117,color:#0D1117
-    style D fill:#FF6B6B,stroke:#0D1117,color:#0D1117
-    style G fill:#00FF88,stroke:#0D1117,color:#0D1117
-```
-
-</div>
-
-### **Research Interests**
-- 🧠 **Neural Architecture Search** - Automating optimal network design
-- 🎮 **AI in Gaming** - Intelligent NPCs and procedural generation  
-- 🤖 **Multi-Agent Systems** - Collaborative AI frameworks
-- 🔬 **Explainable AI** - Making AI decisions interpretable
-- 🌐 **Edge AI** - Deploying ML models on resource-constrained devices
-
-### **Collaboration Opportunities**
-> Always open to exciting collaborations in AI research, innovative web applications, and creative gaming projects. Let's build the future together!
-
----
-
 <div align="center">
   
 <img align="center" alt="Professional Collaboration" width="600" height="300" src="https://user-images.githubusercontent.com/74038190/213760677-e5b7b3f2-9f68-4cb1-9f1b-0f7e936a3c57.gif"/>
@@ -298,6 +244,6 @@ graph TD
   <img src="https://komarev.com/ghpvc/?username=MUKILAN0608&color=00D9FF&style=for-the-badge&label=PROFILE+VISITORS"/>
 </div>
 
-### **Appreciate the innovation? Show your support with a ⭐!**
+### **Appreciate the innovation? Show your support with a star!**
 
 </div>
