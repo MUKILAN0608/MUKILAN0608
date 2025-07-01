@@ -8,8 +8,9 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,17&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,18,21&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 </div>
+
 
 <div align="center">
   <img width="800" height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
