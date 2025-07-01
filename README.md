@@ -1,8 +1,9 @@
-#<div align="center">
+##<div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=38&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=950&height=130&lines=**MUKILAN+A+M**;**AI+Engineer+%7C+Innovation+Pioneer**;**Technology+Architect+%7C+Problem+Solver**" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=38&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=950&height=130&lines=MUKILAN+A+M;AI+Engineer+%7C+Innovation+Pioneer;Technology+Architect+%7C+Problem+Solver" alt="Typing SVG">
 
 </div>
+
 
 
 <div align="center">
