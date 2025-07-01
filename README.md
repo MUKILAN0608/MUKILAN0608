@@ -1,8 +1,9 @@
 # <div align="center">
   
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=MUKILAN+A+M;AI+Engineer+%7C+Innovation+Pioneer;Technology+Architect+%7C+Problem+Solver)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=32&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=MUKILAN+A+M;AI+Engineer+%7C+Innovation+Pioneer;Technology+Architect+%7C+Problem+Solver)
 
 </div>
+
 
 
 <div align="center">
