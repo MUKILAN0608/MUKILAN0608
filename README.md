@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img width="818" height="534" alt="batman" src="https://github.com/user-attachments/assets/baf9e1f9-e6c7-43c7-8dd7-5fa79a8fb627" />
+  <img width="918" height="594" alt="batman" src="https://github.com/user-attachments/assets/baf9e1f9-e6c7-43c7-8dd7-5fa79a8fb627" />
 
 </div>
 
