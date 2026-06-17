@@ -20,7 +20,7 @@
 
 ## **Professional Overview**
 
-<img width="618" height="434" alt="batman" src="https://github.com/user-attachments/assets/4074e22c-36af-4de2-81d1-4c6ff6f47359" />
+<img align="right" alt="Machine Learning Animation" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 
 ```typescript
