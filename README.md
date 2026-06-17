@@ -7,9 +7,6 @@
 </div>
 
 </div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:1E90FF&height=180&section=header&text=Innovation%20Starts%20Here&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
-</div>
 
 
 <div align="center">
