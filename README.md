@@ -20,8 +20,8 @@
 
 ## **Professional Overview**
 
-<img align="right" alt="Machine Learning Animation" width="420" src="<img width="618" height="434" alt="batman" src="https://github.com/user-attachments/assets/eba2aa17-8579-49f6-ba36-b6b36d052834" />
-"/>
+<img width="618" height="434" alt="batman" src="https://github.com/user-attachments/assets/4074e22c-36af-4de2-81d1-4c6ff6f47359" />
+
 
 ```typescript
 interface TechArchitect {
