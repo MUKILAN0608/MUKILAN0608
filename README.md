@@ -36,7 +36,45 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=7C3AED&background=0D1117&center=true&vCenter=true&multiline=true&width=1050&height=300&lines=mukilan%40research-node%3A~%24%20tree%20research%2F%20-L%202%20--emoji;research%2F;%E2%94%9C%E2%94%80%E2%94%80%20reinforcement-learning%2F%20%20%20%20%20-%3E%20PPO%2C%20actor-critic%2C%20reward%20shaping%2C%20sample-efficient%20RL;%E2%94%9C%E2%94%80%E2%94%80%20agentic-ai%2F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%3E%20multi-agent%20coordination%2C%20tool-using%20agents%2C%20planning;%E2%94%9C%E2%94%80%E2%94%80%20autonomous-systems%2F%20%20%20%20%20%20%20%20%20-%3E%20perception%20-%3E%20planning%20-%3E%20control%20pipelines;%E2%94%9C%E2%94%80%E2%94%80%20neuro-symbolic-ai%2F%20%20%20%20%20%20%20%20%20%20-%3E%20reasoning%20over%20learned%20representations;%E2%94%9C%E2%94%80%E2%94%80%20vision-language-models%2F%20%20%20%20%20-%3E%20grounded%20multimodal%20understanding;%E2%94%94%E2%94%80%E2%94%80%20infrastructure%2F%20%20%20%20%20%20%20%20%20%20%20%20%20-%3E%20distributed%20training%2C%20HPC%2C%20compute%20pipelines;6%20directories%2C%20research%20in%20progress" alt="research focus file tree session"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2400&pause=800&color=7C3AED&background=0D1117&center=true&vCenter=true&multiline=true&width=1050&height=300&lines=mukilan%40research-node%3A~%24%20tree%20research%2F%20-L%202%20--emoji;research%2F;%E2%94%9C%E2%94%80%E2%94%80%20reinforcement-learning%2F%20%20%20%20%20-%3E%20PPO%2C%20actor-critic%2C%20reward%20shaping%2C%20sample-efficient%20RL;%E2%94%9C%E2%94%80%E2%94%80%20agentic-ai%2F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%3E%20multi-agent%20coordination%2C%20tool-using%20agents%2C%20planning;%E2%94%9C%E2%94%80%E2%94%80%20autonomous-systems%2F%20%20%20%20%20%20%20%20%20-%3E%20perception%20-%3E%20planning%20-%3E%20control%20pipelines;%E2%94%9C%E2%94%80%E2%94%80%20neuro-symbolic-ai%2F%20%20%20%20%20%20%20%20%20%20-%3E%20reasoning%20over%20learned%20representations;%E2%94%9C%E2%94%80%E2%94%80%20vision-language-models%2F%20%20%20%20%20-%3E%20grounded%20multimodal%20understanding;%E2%94%94%E2%94%80%E2%94%80%20infrastructure%2F%20%20%20%20%20%20%20%20%20%20%20%20%20-%3E%20distributed%20training%2C%20HPC%2C%20compute%20pipelines;6%20directories%2C%20research%20in%20progress" alt="research focus file tree session"/>
+
+<br><br>
+
+<sub><code>$ cat research/**/PROGRESS.md</code></sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/reinforcement--learning%2F-92%25-2ea44f?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/92/?scale=100&width=180&suffix=%25&color=2ea44f&title=&progressColor=2ea44f" />
+
+<br>
+
+<img src="https://img.shields.io/badge/agentic--ai%2F-78%25-2ea44f?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/78/?scale=100&width=180&suffix=%25&color=2ea44f" />
+
+<br>
+
+<img src="https://img.shields.io/badge/autonomous--systems%2F-64%25-f59e0b?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/64/?scale=100&width=180&suffix=%25&color=f59e0b" />
+
+<br>
+
+<img src="https://img.shields.io/badge/neuro--symbolic--ai%2F-41%25-c1121f?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/41/?scale=100&width=180&suffix=%25&color=c1121f" />
+
+<br>
+
+<img src="https://img.shields.io/badge/vision--language--models%2F-55%25-f59e0b?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/55/?scale=100&width=180&suffix=%25&color=f59e0b" />
+
+<br>
+
+<img src="https://img.shields.io/badge/infrastructure%2F-100%25-2ea44f?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/100/?scale=100&width=180&suffix=%25&color=2ea44f" />
+
+<br><br>
+
+<sub>green = shipped and stable · amber = actively iterating · red = early / exploratory</sub>
 
 </div>
 
@@ -73,64 +111,63 @@
 
 <br><br>
 
-**AI & Research**
+**AI &amp; Research**
 
-![RL](https://img.shields.io/badge/Reinforcement_Learning-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
-![Agentic](https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
-![NeuroSymbolic](https://img.shields.io/badge/Neuro--Symbolic_AI-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
-![CV](https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
-![VLM](https://img.shields.io/badge/Vision--Language_Models-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
-![XAI](https://img.shields.io/badge/Explainable_AI-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
-![MAS](https://img.shields.io/badge/Multi--Agent_Systems-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
-![DLS](https://img.shields.io/badge/Deep_Learning_Systems-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
+<img src="https://img.shields.io/badge/Reinforcement_Learning-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+<img src="https://img.shields.io/badge/Neuro--Symbolic_AI-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+<img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+<img src="https://img.shields.io/badge/Vision--Language_Models-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+<img src="https://img.shields.io/badge/Explainable_AI-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+<img src="https://img.shields.io/badge/Deep_Learning_Systems-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
 
-**Systems & Infrastructure**
+<br><br>
 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
-![Infra](https://img.shields.io/badge/AI_Infrastructure-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
-![Distributed](https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
-![GPU](https://img.shields.io/badge/GPU_Computing-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
-![CloudNative](https://img.shields.io/badge/Cloud--Native_AI-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
-![HPC](https://img.shields.io/badge/High_Performance_Computing-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
-![MLOps](https://img.shields.io/badge/MLOps_Runtime-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
+**AI Systems &amp; Infrastructure**
+
+<img src="https://img.shields.io/badge/AI_Infrastructure-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B" />
+<img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B" />
+<img src="https://img.shields.io/badge/GPU_Computing-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B&logo=nvidia&logoColor=76B900" />
+<img src="https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B&logo=nvidia&logoColor=76B900" />
+<img src="https://img.shields.io/badge/Cloud--Native_AI-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B" />
+<img src="https://img.shields.io/badge/High_Performance_Computing-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B" />
+<img src="https://img.shields.io/badge/MLOps-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B" />
+
+<br><br>
+
+**Runtime &amp; DevOps**
+
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&labelColor=0D1117&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&labelColor=0D1117&logo=kubernetes&logoColor=326CE5" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&labelColor=0D1117&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&labelColor=0D1117&logo=fastapi&logoColor=009688" />
+
+<br><br>
 
 **Languages**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,go&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cpp,go&theme=light">
-  <img src="https://skillicons.dev/icons?i=py,cpp,go&theme=dark" alt="languages: python, c++, go"/>
-</picture>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&labelColor=0D1117&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&labelColor=0D1117&logo=go&logoColor=00ADD8" />
 
-**Frameworks & Libraries**
+<br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi&theme=light">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi&theme=dark" alt="frameworks: pytorch, tensorflow, opencv, fastapi"/>
-</picture>
-<br>
+**Frameworks &amp; Libraries**
 
-![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=flat-square&labelColor=0D1117&color=76B900&logo=nvidia&logoColor=76B900)
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&labelColor=0D1117&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&labelColor=0D1117&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&labelColor=0D1117&logo=opencv&logoColor=5C3EE8" />
 
-**DevOps & Runtime**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,linux,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,linux,git&theme=light">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git&theme=dark" alt="devops: docker, kubernetes, linux, git"/>
-</picture>
+<br><br>
 
 **Databases**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis,postgres,mongodb&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis,postgres,mongodb&theme=light">
-  <img src="https://skillicons.dev/icons?i=redis,postgres,mongodb&theme=dark" alt="databases: redis, postgresql, mongodb"/>
-</picture>
-<br>
-
-![Neo4j](https://img.shields.io/badge/Neo4j-0D1117?style=flat-square&labelColor=0D1117&color=4581C3&logo=neo4j&logoColor=4581C3)
+<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&labelColor=0D1117&logo=redis&logoColor=DC382D" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&labelColor=0D1117&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&labelColor=0D1117&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Neo4j-0D1117?style=for-the-badge&labelColor=0D1117&logo=neo4j&logoColor=4581C3" />
 
 </div>
 
