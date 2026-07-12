@@ -8,11 +8,7 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="node booting"/>
-</picture>
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="380" alt="live systems readout"/>
 
 <sub><code>booting research node ⚡ loading weights ⚡ aura: stable</code></sub>
 
@@ -22,7 +18,7 @@
 <img src="https://img.shields.io/github/followers/MUKILAN0608?label=FOLLOWERS&color=7C3AED&style=for-the-badge&labelColor=0D1117" alt="followers"/>
 <img src="https://img.shields.io/github/stars/MUKILAN0608?affiliations=OWNER&label=STARS&color=F59E0B&style=for-the-badge&labelColor=0D1117" alt="stars"/>
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:C1121F,100:F59E0B&height=3&width=1000" width="100%"/>
 
@@ -77,6 +73,14 @@
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="360" alt="multi-screen analysis"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:14B8A6,100:7C3AED&height=3&width=1000" width="100%"/>
 </div>
 
 <br>
@@ -86,6 +90,8 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=14B8A6&background=0D11170D&center=true&vCenter=true&width=640&lines=%24+whoami;ai-research-engineer;reinforcement-learning+.+agentic-systems;role%3A+professional-bug-manufacturer" alt="whoami terminal"/>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="360" alt="deep focus"/>
 
 </div>
 
@@ -130,9 +136,19 @@ research/
 
 <br>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,50:C1121F,100:F59E0B&height=3&width=1000" width="100%"/>
+</div>
+
+<br>
+
 ## <img src="https://img.shields.io/badge/-TECHNOLOGY%20STACK-14B8A6?style=for-the-badge&labelColor=0D1117&logo=nvidia&logoColor=E6EDF3" />
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
 
 **Languages**
 
@@ -142,6 +158,9 @@ research/
   <img src="https://skillicons.dev/icons?i=python,cpp,bash&theme=dark" alt="languages"/>
 </picture>
 
+</td>
+<td align="center" width="20%">
+
 **AI / ML**
 
 <picture>
@@ -149,6 +168,9 @@ research/
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ai / ml"/>
 </picture>
+
+</td>
+<td align="center" width="20%">
 
 **Systems / Infra**
 
@@ -158,6 +180,9 @@ research/
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git&theme=dark" alt="systems"/>
 </picture>
 
+</td>
+<td align="center" width="20%">
+
 **Cloud / Data**
 
 <picture>
@@ -165,6 +190,9 @@ research/
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,postgres,redis&theme=light">
   <img src="https://skillicons.dev/icons?i=aws,postgres,redis&theme=dark" alt="cloud / data"/>
 </picture>
+
+</td>
+<td align="center" width="20%">
 
 **Tooling**
 
@@ -174,6 +202,16 @@ research/
   <img src="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,github&theme=dark" alt="tooling"/>
 </picture>
 
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C1121F,50:7C3AED,100:14B8A6&height=3&width=1000" width="100%"/>
 </div>
 
 <br>
@@ -183,30 +221,10 @@ research/
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C1121F&icon_color=F59E0B&text_color=E6EDF3&border_color=7C3AED">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&hide_border=false&bg_color=ffffff&title_color=C1121F&icon_color=7C3AED&text_color=1a1a1a&border_color=C1121F">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C1121F&icon_color=F59E0B&text_color=E6EDF3&border_color=7C3AED" width="49%" alt="github stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN0608&hide_border=true&background=0D1117&stroke=7C3AED&ring=F59E0B&fire=C1121F&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN0608&hide_border=false&background=ffffff&stroke=C1121F&ring=F59E0B&fire=C1121F&currStreakLabel=1a1a1a&sideLabels=1a1a1a&dates=666666&currStreakNum=1a1a1a&sideNums=1a1a1a">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN0608&hide_border=true&background=0D1117&stroke=7C3AED&ring=F59E0B&fire=C1121F&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" width="49%" alt="streak stats"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E6EDF3&border_color=7C3AED">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&hide_border=false&bg_color=ffffff&title_color=C1121F&text_color=1a1a1a&border_color=C1121F">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E6EDF3&border_color=7C3AED" width="49%" alt="top languages"/>
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=0D1117&color=E6EDF3&line=F59E0B&point=C1121F&area=true&area_color=7C3AED&title_color=C1121F&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=ffffff&color=1a1a1a&line=C1121F&point=C1121F&area=true&area_color=F59E0B&title_color=C1121F&hide_border=false">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=0D1117&color=E6EDF3&line=F59E0B&point=C1121F&area=true&area_color=7C3AED&title_color=C1121F&hide_border=true" width="49%" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=0D1117&color=E6EDF3&line=F59E0B&point=C1121F&area=true&area_color=7C3AED&title_color=C1121F&hide_border=true" width="100%" alt="activity graph"/>
 </picture>
-
-**Contribution Calendar**
-
-<img src="https://ghchart.rshah.org/C1121F/MUKILAN0608" width="90%" alt="contribution calendar"/>
 
 **Contribution Snake**
 
@@ -214,14 +232,6 @@ research/
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUKILAN0608/MUKILAN0608/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUKILAN0608/MUKILAN0608/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/MUKILAN0608/MUKILAN0608/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
-</picture>
-
-**Trophy Case**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=dark&no-frame=true&row=1&column=6&margin-w=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=flat&no-frame=true&row=1&column=6&margin-w=8">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=dark&no-frame=true&row=1&column=6&margin-w=8" width="90%" alt="trophy case"/>
 </picture>
 
 </div>
@@ -271,9 +281,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-The stats, streak, top-languages, activity graph, calendar, and trophy case above don't need any of this — they render live with zero setup, so the section never looks empty while the snake workflow is pending.
+The activity graph above doesn't need any of this — it renders live from the API with zero setup, so this section never looks empty while the snake workflow is pending.
 
 </details>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:F59E0B,100:C1121F&height=3&width=1000" width="100%"/>
+</div>
 
 <br>
 
@@ -309,6 +325,12 @@ $ git log --author="Mukilan" --oneline
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:C1121F,100:7C3AED&height=3&width=1000" width="100%"/>
+</div>
 
 <br>
 
@@ -355,6 +377,8 @@ E: Unable to locate package sleep
 <br>
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="130" alt="wave goodbye"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2600&pause=1000&color=7C3AED&background=0D11170D&center=true&vCenter=true&width=600&lines=%24+logout;Saving+session...;Session+terminated.;See+you+in+the+next+commit." alt="logout terminal"/>
 
