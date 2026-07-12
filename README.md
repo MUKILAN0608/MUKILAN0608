@@ -41,29 +41,27 @@
 <br><br>
 
 
-<h2 align="center"> SYSTEM DIAGNOSTICS</h2>
-
 <p align="center">
 
-<img src="https://progress-bar.dev/100/?title=GPU%20Usage&width=600&color=00ff88"/>
-
-<img src="https://progress-bar.dev/100/?title=Research%20Mode&width=600&color=00ff88"/>
-
-<img src="https://progress-bar.dev/100/?title=Curiosity&width=600&color=00ff88"/>
-
-<img src="https://progress-bar.dev/92/?title=Coffee&width=600&color=ff9800"/>
-
-<img src="https://progress-bar.dev/67/?title=Documentation&width=600&color=f1c40f"/>
-
-<img src="https://progress-bar.dev/41/?title=Technical%20Debt&width=600&color=f39c12"/>
-
-<img src="https://progress-bar.dev/78/?title=Bug%20Count&width=600&color=e67e22"/>
-
-<img src="https://progress-bar.dev/0/?title=Sleep&width=600&color=e74c3c"/>
-
-<img src="https://progress-bar.dev/100/?title=Reviewer%20%232&width=600&color=ff0000"/>
-
-<img src="https://progress-bar.dev/14/?title=Production%20Safety&width=600&color=c0392b"/>
+<img src="https://progress-bar.xyz/100/?title=GPU%20Usage"/>
+<br>
+<img src="https://progress-bar.xyz/100/?title=Research%20Mode"/>
+<br>
+<img src="https://progress-bar.xyz/100/?title=Curiosity"/>
+<br>
+<img src="https://progress-bar.xyz/92/?title=Coffee"/>
+<br>
+<img src="https://progress-bar.xyz/67/?title=Documentation"/>
+<br>
+<img src="https://progress-bar.xyz/45/?title=Technical%20Debt"/>
+<br>
+<img src="https://progress-bar.xyz/82/?title=Bug%20Count"/>
+<br>
+<img src="https://progress-bar.xyz/0/?title=Sleep"/>
+<br>
+<img src="https://progress-bar.xyz/100/?title=Reviewer%20%232"/>
+<br>
+<img src="https://progress-bar.xyz/14/?title=Production"/>
 
 </p>
 <br>
