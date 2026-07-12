@@ -22,58 +22,50 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-WHOAMI-7C3AED?style=for-the-badge&labelColor=0D1117&logo=gnometerminal&logoColor=E6EDF3" />
+<h2 align="center"><img src="https://img.shields.io/badge/-WHOAMI-7C3AED?style=for-the-badge&labelColor=0D1117&logo=gnometerminal&logoColor=E6EDF3" /></h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=600&color=14B8A6&background=0D1117&center=true&vCenter=true&multiline=true&width=1000&height=340&lines=mukilan%40research-node%3A~%24%20whoami%20--verbose;%3E%3E%20name%20%20%20%20%20%20%20%20%20%20%3A%20Mukilan%20A.%20M.;%3E%3E%20role%20%20%20%20%20%20%20%20%20%20%3A%20AI%20Research%20Engineer;%3E%3E%20focus%20%20%20%20%20%20%20%20%20%3A%20Reinforcement%20Learning%2C%20Agentic%20AI%2C%20Autonomous%20Systems;%3E%3E%20secondary%20%20%20%20%20%3A%20Neuro-Symbolic%20AI%2C%20Vision-Language%20Models;%3E%3E%20stack_layer%20%20%20%3A%20AI%20Infra%20%26%20Distributed%20Systems%2C%20HPC;%3E%3E%20shell%20%20%20%20%20%20%20%20%20%3A%20%2Fbin%2Fcuriosity;%3E%3E%20uptime%20%20%20%20%20%20%20%20%3A%20since%20the%20last%20noisy%20sample%20got%20dropped;%3E%3E%20load_avg%20%20%20%20%20%20%3A%201.00%2C%201.00%2C%201.00%20%28always%20training%29;%3E%3E%20status%20%20%20%20%20%20%20%20%3A%20training%20models%2C%20occasionally%20my%20own%20patience;%3E%3E%20quote%20%20%20%20%20%20%20%20%20%3A%20the%20compiler%20was%20more%20honest%20than%20most%20people;mukilan%40research-node%3A~%24%20_" alt="whoami terminal session"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2200&pause=600&color=14B8A6&background=0D1117&center=true&vCenter=true&multiline=true&width=1050&height=360&lines=mukilan%40research-node%3A~%24%20whoami%20--verbose;%3E%3E%20name%20%20%20%20%20%20%20%20%20%20%3A%20Mukilan%20A.%20M.;%3E%3E%20role%20%20%20%20%20%20%20%20%20%20%3A%20AI%20Research%20Engineer;%3E%3E%20focus%20%20%20%20%20%20%20%20%20%3A%20Reinforcement%20Learning%2C%20Agentic%20AI%2C%20Autonomous%20Systems;%3E%3E%20secondary%20%20%20%20%20%3A%20Neuro-Symbolic%20AI%2C%20Vision-Language%20Models;%3E%3E%20stack_layer%20%20%20%3A%20AI%20Infra%20%26%20Distributed%20Systems%2C%20HPC;%3E%3E%20shell%20%20%20%20%20%20%20%20%20%3A%20%2Fbin%2Fcuriosity;%3E%3E%20uptime%20%20%20%20%20%20%20%20%3A%20since%20the%20last%20noisy%20sample%20got%20dropped;%3E%3E%20load_avg%20%20%20%20%20%20%3A%201.00%2C%201.00%2C%201.00%20%28always%20training%29;%3E%3E%20status%20%20%20%20%20%20%20%20%3A%20training%20models%2C%20occasionally%20my%20own%20patience;%3E%3E%20quote%20%20%20%20%20%20%20%20%20%3A%20the%20compiler%20was%20more%20honest%20than%20most%20people;mukilan%40research-node%3A~%24%20_" alt="whoami terminal session"/>
 
 </div>
 
 <br>
 
-## <img src="https://img.shields.io/badge/-RESEARCH%20FOCUS-F59E0B?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=E6EDF3" />
-
-```
-research/
-├── reinforcement-learning/
-│   ├── policy-optimization.py        # PPO, actor-critic, on/off-policy methods
-│   ├── reward-shaping.py             # dense vs. sparse reward design
-│   └── sample-efficiency.py          # data-efficient RL under constrained compute
-│
-├── agentic-ai/
-│   ├── multi-agent-systems.py        # coordination, negotiation, emergent behavior
-│   ├── tool-using-agents.py          # function calling, tool selection, execution loops
-│   └── long-horizon-planning.py      # memory, subgoal decomposition
-│
-├── autonomous-systems/
-│   ├── perception-planning-control.py    # end-to-end pipelines
-│   └── decision-under-uncertainty.py     # robust control policies
-│
-├── neuro-symbolic-ai/
-│   └── reasoning-over-representations.py
-│
-├── vision-language-models/
-│   └── grounded-multimodal-understanding.py
-│
-└── infrastructure/
-    ├── distributed-training.py       # multi-GPU / multi-node scaling
-    └── high-performance-computing.py # scheduling, profiling, optimization
-```
-
-<br>
-
-## <img src="https://img.shields.io/badge/-SYSTEM%20DIAGNOSTICS-C1121F?style=for-the-badge&labelColor=0D1117&logo=htop&logoColor=E6EDF3" />
+<h2 align="center"><img src="https://img.shields.io/badge/-RESEARCH%20FOCUS-F59E0B?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=E6EDF3" /></h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2100&pause=900&color=F59E0B&background=0D1117&center=true&vCenter=true&width=1000&lines=mukilan%40research-node%3A~%24%20stats%20--live%20--no-sleep;%3E%3E%20GPU%20Usage%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20100%25;%3E%3E%20Research%20Mode%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20ENABLED;%3E%3E%20Curiosity%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20MAX;%3E%3E%20Coffee%20%20%20%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20REQUIRED;%3E%3E%20Documentation%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20WIP;%3E%3E%20Technical%20Debt%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20ACCEPTABLE;%3E%3E%20Sleep%20%20%20%20%20%20%20%20%20%20%20%20%3A%20%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20NOT%20FOUND;%3E%3E%20Reviewer%20%232%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20DETECTED;%3E%3E%20Relationship%20%20%20%20%20%3A%20Model%20Deprecated;%3E%3E%20Bug%20Count%20%20%20%20%20%20%20%20%3A%20Feature%20Rich%28TM%29;%3E%3E%20Works%20on%20Machine%20%3A%20TRUE;%3E%3E%20Production%20%20%20%20%20%20%20%3A%20let%27s%20not%20talk%20about%20it." alt="system diagnostics terminal session"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=7C3AED&background=0D1117&center=true&vCenter=true&multiline=true&width=1050&height=300&lines=mukilan%40research-node%3A~%24%20tree%20research%2F%20-L%202%20--emoji;research%2F;%E2%94%9C%E2%94%80%E2%94%80%20reinforcement-learning%2F%20%20%20%20%20-%3E%20PPO%2C%20actor-critic%2C%20reward%20shaping%2C%20sample-efficient%20RL;%E2%94%9C%E2%94%80%E2%94%80%20agentic-ai%2F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%3E%20multi-agent%20coordination%2C%20tool-using%20agents%2C%20planning;%E2%94%9C%E2%94%80%E2%94%80%20autonomous-systems%2F%20%20%20%20%20%20%20%20%20-%3E%20perception%20-%3E%20planning%20-%3E%20control%20pipelines;%E2%94%9C%E2%94%80%E2%94%80%20neuro-symbolic-ai%2F%20%20%20%20%20%20%20%20%20%20-%3E%20reasoning%20over%20learned%20representations;%E2%94%9C%E2%94%80%E2%94%80%20vision-language-models%2F%20%20%20%20%20-%3E%20grounded%20multimodal%20understanding;%E2%94%94%E2%94%80%E2%94%80%20infrastructure%2F%20%20%20%20%20%20%20%20%20%20%20%20%20-%3E%20distributed%20training%2C%20HPC%2C%20compute%20pipelines;6%20directories%2C%20research%20in%20progress" alt="research focus file tree session"/>
 
 </div>
 
 <br>
 
-## <img src="https://img.shields.io/badge/-TECHNOLOGY%20STACK-14B8A6?style=for-the-badge&labelColor=0D1117&logo=nvidia&logoColor=E6EDF3" />
+<h2 align="center"><img src="https://img.shields.io/badge/-SYSTEM%20DIAGNOSTICS-C1121F?style=for-the-badge&labelColor=0D1117&logo=htop&logoColor=E6EDF3" /></h2>
+
+<div align="center">
+
+![GPU Usage](https://img.shields.io/badge/GPU_Usage-100%25-brightgreen?style=for-the-badge&labelColor=0D1117)
+![Research Mode](https://img.shields.io/badge/Research_Mode-ENABLED-brightgreen?style=for-the-badge&labelColor=0D1117)
+![Curiosity](https://img.shields.io/badge/Curiosity-MAX-brightgreen?style=for-the-badge&labelColor=0D1117)
+![Works on My Machine](https://img.shields.io/badge/Works_on_My_Machine-TRUE-brightgreen?style=for-the-badge&labelColor=0D1117)
+
+![Coffee](https://img.shields.io/badge/Coffee-REQUIRED-orange?style=for-the-badge&labelColor=0D1117)
+![Documentation](https://img.shields.io/badge/Documentation-WIP-yellow?style=for-the-badge&labelColor=0D1117)
+![Technical Debt](https://img.shields.io/badge/Technical_Debt-ACCEPTABLE-yellow?style=for-the-badge&labelColor=0D1117)
+![Bug Count](https://img.shields.io/badge/Bug_Count-Feature_Rich_TM-orange?style=for-the-badge&labelColor=0D1117)
+
+![Sleep](https://img.shields.io/badge/Sleep-NOT_FOUND-red?style=for-the-badge&labelColor=0D1117)
+![Reviewer 2](https://img.shields.io/badge/Reviewer_%232-DETECTED-red?style=for-the-badge&labelColor=0D1117)
+![Relationship](https://img.shields.io/badge/Relationship-Model_Deprecated-lightgrey?style=for-the-badge&labelColor=0D1117)
+![Production](https://img.shields.io/badge/Production-Lets_Not_Talk_About_It-critical?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br>
+
+<h2 align="center"><img src="https://img.shields.io/badge/-TECHNOLOGY%20STACK-14B8A6?style=for-the-badge&labelColor=0D1117&logo=nvidia&logoColor=E6EDF3" /></h2>
 
 <div align="center">
 
@@ -144,7 +136,7 @@ research/
 
 <br>
 
-## <img src="https://img.shields.io/badge/-GITHUB%20ANALYTICS-C1121F?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=E6EDF3" />
+<h2 align="center"><img src="https://img.shields.io/badge/-GITHUB%20ANALYTICS-C1121F?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=E6EDF3" /></h2>
 
 <div align="center">
 
@@ -232,7 +224,7 @@ The stats, streak, top-languages, and trophy case above don't need any of this �
 
 <br>
 
-## <img src="https://img.shields.io/badge/-OPEN%20SOURCE%20CONTRIBUTIONS-7C3AED?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=E6EDF3" />
+<h2 align="center"><img src="https://img.shields.io/badge/-OPEN%20SOURCE%20CONTRIBUTIONS-7C3AED?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=E6EDF3" /></h2>
 
 <div align="center">
 
@@ -259,7 +251,7 @@ $ git log --author="Mukilan" --oneline
 
 <br>
 
-## <img src="https://img.shields.io/badge/-CONTACT-F59E0B?style=for-the-badge&labelColor=0D1117&logo=googlechat&logoColor=E6EDF3" />
+<h2 align="center"><img src="https://img.shields.io/badge/-CONTACT-F59E0B?style=for-the-badge&labelColor=0D1117&logo=googlechat&logoColor=E6EDF3" /></h2>
 
 <div align="center">
 
