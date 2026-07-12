@@ -131,29 +131,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C1121F&icon_color=F59E0B&text_color=E6EDF3&border_color=7C3AED">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&hide_border=false&bg_color=ffffff&title_color=C1121F&icon_color=7C3AED&text_color=1a1a1a&border_color=C1121F">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C1121F&icon_color=F59E0B&text_color=E6EDF3&border_color=7C3AED" width="49%" alt="github stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN0608&hide_border=true&background=0D1117&stroke=7C3AED&ring=F59E0B&fire=C1121F&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN0608&hide_border=false&background=ffffff&stroke=C1121F&ring=F59E0B&fire=C1121F&currStreakLabel=1a1a1a&sideLabels=1a1a1a&dates=666666&currStreakNum=1a1a1a&sideNums=1a1a1a">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN0608&hide_border=true&background=0D1117&stroke=7C3AED&ring=F59E0B&fire=C1121F&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" width="49%" alt="streak stats"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E6EDF3&border_color=7C3AED">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&hide_border=false&bg_color=ffffff&title_color=C1121F&text_color=1a1a1a&border_color=C1121F">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E6EDF3&border_color=7C3AED" width="49%" alt="top languages"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=dark&no-frame=true&row=1&column=6&margin-w=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=flat&no-frame=true&row=1&column=6&margin-w=8">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=dark&no-frame=true&row=1&column=6&margin-w=8" width="90%" alt="trophy case"/>
-</picture>
-
 **Contribution Snake**
 
 <picture>
