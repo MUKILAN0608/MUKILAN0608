@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7C3AED,50:C1121F,75:F59E0B,100:0D1117&height=210&section=header&text=MUKILAN%20A.%20M.&fontSize=46&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=AI%20Research%20%7C%20Reinforcement%20Learning%20%7C%20Agentic%20and%20Autonomous%20Systems&descAlignY=56&descSize=17" width="100%"/>
-
 <code>&gt; ACCESS GRANTED</code>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=F59E0B&background=0D11170D&center=true&vCenter=true&width=760&lines=Generalized+after+removing+one+particularly+noisy+sample.+%F0%9F%97%BF;The+model+recovered.+The+lore+didn't.;AI+Confidence%3A+99%25.+Actual+Confidence%3A+Loading...;No+rollback.+Only+character+development." alt="status line"/>
