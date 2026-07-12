@@ -40,28 +40,9 @@
 
 <br><br>
 
-
 <p align="center">
 
-<img src="https://progress-bar.xyz/100/?title=GPU%20Usage"/>
-<br>
-<img src="https://progress-bar.xyz/100/?title=Research%20Mode"/>
-<br>
-<img src="https://progress-bar.xyz/100/?title=Curiosity"/>
-<br>
-<img src="https://progress-bar.xyz/92/?title=Coffee"/>
-<br>
-<img src="https://progress-bar.xyz/67/?title=Documentation"/>
-<br>
-<img src="https://progress-bar.xyz/45/?title=Technical%20Debt"/>
-<br>
-<img src="https://progress-bar.xyz/82/?title=Bug%20Count"/>
-<br>
-<img src="https://progress-bar.xyz/0/?title=Sleep"/>
-<br>
-<img src="https://progress-bar.xyz/100/?title=Reviewer%20%232"/>
-<br>
-<img src="https://progress-bar.xyz/14/?title=Production"/>
+<img width="850" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=850&height=320&lines=%24+systemctl+status;GPU+Usage++++++++++++++%5B████████████████████%5D+100%25;Research+Mode+++++++++%5B████████████████████%5D+ENABLED;Curiosity+++++++++++++%5B████████████████████%5D+MAXIMUM;Coffee+++++++++++++++%5B██████████████████░░%5D+92%25;Documentation+++++++++%5B█████████████░░░░░░%5D+67%25;Technical+Debt++++++++%5B████████░░░░░░░░░░░%5D+41%25;Sleep++++++++++++++++%5B░░░░░░░░░░░░░░░░░░░░%5D+0%25;Reviewer+%232+++++++++HOSTILE;Relationship++++++++++MODEL_DEPRECATED;Production++++++++++++LETS_NOT_TALK_ABOUT_IT" />
 
 </p>
 <br>
