@@ -40,11 +40,60 @@
 
 <br><br>
 
+<sub><code>$ cat research/**/PROGRESS.md</code></sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/reinforcement--learning%2F-92%25-2ea44f?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/92/?scale=100&width=180&suffix=%25&color=2ea44f&title=&progressColor=2ea44f" />
+
+<br>
+
+<img src="https://img.shields.io/badge/agentic--ai%2F-78%25-2ea44f?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/78/?scale=100&width=180&suffix=%25&color=2ea44f" />
+
+<br>
+
+<img src="https://img.shields.io/badge/autonomous--systems%2F-64%25-f59e0b?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/64/?scale=100&width=180&suffix=%25&color=f59e0b" />
+
+<br>
+
+<img src="https://img.shields.io/badge/neuro--symbolic--ai%2F-41%25-c1121f?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/41/?scale=100&width=180&suffix=%25&color=c1121f" />
+
+<br>
+
+<img src="https://img.shields.io/badge/vision--language--models%2F-55%25-f59e0b?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/55/?scale=100&width=180&suffix=%25&color=f59e0b" />
+
+<br>
+
+<img src="https://img.shields.io/badge/infrastructure%2F-100%25-2ea44f?style=flat-square&labelColor=0D1117" />
+<img src="https://progress-bar.xyz/100/?scale=100&width=180&suffix=%25&color=2ea44f" />
+
+<br><br>
+
+<sub>green = shipped and stable · amber = actively iterating · red = early / exploratory</sub>
+
+</div>
+
+<br>
+
+<h2 align="center"><img src="https://img.shields.io/badge/-SYSTEM%20DIAGNOSTICS-C1121F?style=for-the-badge&labelColor=0D1117&logo=htop&logoColor=E6EDF3" /></h2>
+
 <p align="center">
-
-<img width="850" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=850&height=320&lines=%24+systemctl+status;GPU+Usage++++++++++++++%5B████████████████████%5D+100%25;Research+Mode+++++++++%5B████████████████████%5D+ENABLED;Curiosity+++++++++++++%5B████████████████████%5D+MAXIMUM;Coffee+++++++++++++++%5B██████████████████░░%5D+92%25;Documentation+++++++++%5B█████████████░░░░░░%5D+67%25;Technical+Debt++++++++%5B████████░░░░░░░░░░░%5D+41%25;Sleep++++++++++++++++%5B░░░░░░░░░░░░░░░░░░░░%5D+0%25;Reviewer+%232+++++++++HOSTILE;Relationship++++++++++MODEL_DEPRECATED;Production++++++++++++LETS_NOT_TALK_ABOUT_IT" />
-
+<img width="850" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&duration=1400&pause=800&color=2ea44f&background=0D1117&center=true&vCenter=true&multiline=true&width=850&height=200&lines=%24+systemctl+status+--core;GPU+Usage+++++++++++++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;Research+Mode+++++++++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+ENABLED;Curiosity+++++++++++++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+MAXIMUM" />
 </p>
+
+<p align="center">
+<img width="850" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&duration=1400&pause=800&color=f59e0b&background=0D1117&center=true&vCenter=true&multiline=true&width=850&height=200&lines=%24+systemctl+status+--active;Coffee++++++++++++++++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+92%25;Documentation+++++++++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+67%25;Technical+Debt++++++++%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+41%25" />
+</p>
+
+<p align="center">
+<img width="850" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&duration=1400&pause=800&color=e74c3c&background=0D1117&center=true&vCenter=true&multiline=true&width=850&height=240&lines=%24+systemctl+status+--critical;Sleep+++++++++++++++++%5B%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+0%25;Reviewer+%232+++++++++++HOSTILE;Relationship++++++++++MODEL_DEPRECATED;Production++++++++++++LETS_NOT_TALK_ABOUT_IT" />
+</p>
+
 <br>
 
 <h2 align="center"><img src="https://img.shields.io/badge/-TECHNOLOGY%20STACK-14B8A6?style=for-the-badge&labelColor=0D1117&logo=nvidia&logoColor=E6EDF3" /></h2>
@@ -154,7 +203,54 @@
 
 </div>
 
+<details>
+<summary><b>snake grid not showing?</b> — the two most common causes</summary>
+<br>
 
+The snake SVG only exists once a GitHub Action has actually run and pushed it to an `output` branch. A blank image almost always means one of these:
+
+1. **The workflow never ran.** Adding the YAML below doesn't run it automatically the first time — go to **Actions → snake → Run workflow** and trigger it manually once.
+2. **Workflow permissions are read-only.** Go to **Settings → Actions → General → Workflow permissions** and set it to **Read and write permissions**, otherwise the push step fails silently.
+3. **Repo name mismatch.** This only works inside your special profile repo, named exactly `MUKILAN0608/MUKILAN0608`.
+4. **The `output` branch doesn't exist yet.** After a successful run, check the branch dropdown — if `output` is missing, the push step failed (see #2).
+
+```yaml
+name: snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake svg
+        uses: Platane/snk@v3.5.0
+        with:
+          github_user_name: MUKILAN0608
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23C1121F&color_dots=%230D1117,%237C3AED,%23C1121F,%23F59E0B,%23E6EDF3
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F59E0B&color_dots=%230D1117,%237C3AED,%23C1121F,%23F59E0B,%23E6EDF3
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+The stats, streak, top-languages, and trophy case above don't need any of this — they render live with zero setup, so the section never looks empty while the snake workflow is pending.
+
+</details>
 
 <br>
 
@@ -176,6 +272,12 @@
 
 Contributor to **[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)** — the repository behind the YOLO family of real-time computer vision models (object detection, segmentation, classification, pose estimation, and tracking), used across the CV/ML community at production scale.
 
+```
+$ git log --author="Mukilan" --oneline
+[ADD YOUR MERGED PR HASHES / TITLES HERE]
+```
+
+<sub>Swap the placeholder above for links to your actual merged PRs — pin the ones you're proudest of.</sub>
 
 <br>
 
@@ -198,7 +300,42 @@ Contributor to **[ultralytics/ultralytics](https://github.com/ultralytics/ultral
 
 <div align="center">
 
+<details>
+<summary><code>$ sudo apt install sleep</code></summary>
+<br>
 
+```
+Reading package lists... Done
+Building dependency tree... Done
+E: Unable to locate package sleep
+Note: 'sleep' was replaced by 'deadline' in this distribution.
+```
+
+</details>
+
+<details>
+<summary><code>$ git branch --show-current relationship-status</code></summary>
+<br>
+
+```
+* main
+  (0 other branches, 0 merge conflicts, 0 pending PRs)
+```
+
+</details>
+
+<details>
+<summary><code>$ ps aux | grep sleep_schedule</code></summary>
+<br>
+
+```
+mukilan   1337  0.0  train.py --epochs=inf
+[no matching process found]
+```
+
+</details>
+
+</div>
 
 <br>
 
