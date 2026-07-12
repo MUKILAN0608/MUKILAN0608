@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=15&duration=1900&pause=550&color=14B8A6&background=0D1117&center=true&vCenter=true&width=780&lines=mukilan%40research-node%3A~%24+whoami+--verbose;%3E%3E+name+++++++++%3A+Mukilan+A.+M.;%3E%3E+role+++++++++%3A+AI+Research+Engineer;%3E%3E+focus+++++++%3A+Reinforcement+Learning%2C+Agentic+AI%2C+Autonomous+Systems;%3E%3E+secondary+++%3A+Neuro-Symbolic+AI%2C+Vision-Language+Models;%3E%3E+stack_layer++%3A+AI+Infra+%26+Distributed+Systems%2C+HPC;%3E%3E+status+++++++%3A+training+models%2C+occasionally+my+own+patience;%3E%3E+uptime+++++++%3A+since+the+last+noisy+sample+got+dropped;%3E%3E+quote+++++++%3A+the+compiler+was+more+honest+than+most+people;mukilan%40research-node%3A~%24+_" alt="whoami terminal session"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=14&duration=2200&pause=600&color=14B8A6&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=290&lines=mukilan%40research-node%3A~%24%20whoami%20--verbose;%3E%3E%20name%20%20%20%20%20%20%20%20%20%20%3A%20Mukilan%20A.%20M.;%3E%3E%20role%20%20%20%20%20%20%20%20%20%20%3A%20AI%20Research%20Engineer;%3E%3E%20focus%20%20%20%20%20%20%20%20%20%3A%20Reinforcement%20Learning%2C%20Agentic%20AI%2C%20Autonomous%20Systems;%3E%3E%20secondary%20%20%20%20%20%3A%20Neuro-Symbolic%20AI%2C%20Vision-Language%20Models;%3E%3E%20stack_layer%20%20%20%3A%20AI%20Infra%20%26%20Distributed%20Systems%2C%20HPC;%3E%3E%20shell%20%20%20%20%20%20%20%20%20%3A%20%2Fbin%2Fcuriosity;%3E%3E%20uptime%20%20%20%20%20%20%20%20%3A%20since%20the%20last%20noisy%20sample%20got%20dropped;%3E%3E%20load_avg%20%20%20%20%20%20%3A%201.00%2C%201.00%2C%201.00%20%28always%20training%29;%3E%3E%20status%20%20%20%20%20%20%20%20%3A%20training%20models%2C%20occasionally%20my%20own%20patience;%3E%3E%20quote%20%20%20%20%20%20%20%20%20%3A%20the%20compiler%20was%20more%20honest%20than%20most%20people;mukilan%40research-node%3A~%24%20_" alt="whoami terminal session"/>
 
 </div>
 
@@ -34,64 +34,21 @@
 
 ## <img src="https://img.shields.io/badge/-RESEARCH%20FOCUS-F59E0B?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=E6EDF3" />
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**Reinforcement Learning**
-- Policy optimization (PPO, actor-critic variants)
-- Reward shaping & credit assignment
-- Sample-efficient training under sparse rewards
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=13&duration=2600&pause=700&color=E6EDF3&background=0D1117&center=true&vCenter=true&multiline=true&width=920&height=230&lines=mukilan%40research-node%3A~%24%20cat%20research_focus.log;%3E%3E%20%5Breinforcement_learning%5D%20%20%20policy%20optimization%20%28PPO%2C%20actor-critic%29%2C%20reward%20shaping%2C%20sample-efficient%20RL%20under%20sparse%20rewards;%3E%3E%20%5Bagentic_ai%5D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20multi-agent%20coordination%2C%20tool-using%20agents%2C%20long-horizon%20planning%20%26%20memory;%3E%3E%20%5Bautonomous_systems%5D%20%20%20%20%20%20%20perception%20-%3E%20planning%20-%3E%20control%2C%20real-time%20decisions%20under%20uncertainty;%3E%3E%20%5Bneuro_symbolic_ai%5D%20%20%20%20%20%20%20%20reasoning%20over%20learned%20representations%2C%20hybrid%20symbolic-neural%20inference;%3E%3E%20%5Bvision_language_models%5D%20%20%20grounded%20multimodal%20understanding%2C%20vision-language%20alignment;%3E%3E%20%5Bai_infrastructure%5D%20%20%20%20%20%20%20%20distributed%20training%20at%20scale%2C%20throughput%20%26%20cost-efficient%20compute%20pipelines;mukilan%40research-node%3A~%24%20tail%20-f%20research_focus.log" alt="research focus terminal session"/>
 
-**Agentic AI**
-- Multi-agent coordination & communication protocols
-- Tool-using and tool-calling agents
-- Long-horizon planning and memory for agents
+</div>
 
-**Autonomous Systems**
-- Perception → planning → control pipelines
-- Real-time decision-making under uncertainty
+<br>
 
-</td>
-<td width="50%" valign="top">
+## <img src="https://img.shields.io/badge/-SYSTEM%20DIAGNOSTICS-C1121F?style=for-the-badge&labelColor=0D1117&logo=htop&logoColor=E6EDF3" />
 
-**Neuro-Symbolic AI**
-- Reasoning over learned representations
-- Hybrid symbolic-neural inference
+<div align="center">
 
-**Vision-Language Models**
-- Grounded multimodal understanding
-- Vision-language alignment for downstream tasks
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=13&duration=2200&pause=700&color=F59E0B&background=0D1117&center=true&vCenter=true&multiline=true&width=920&height=340&lines=mukilan%40research-node%3A~%24%20stats%20--live%20--no-sleep;%3E%3E%20GPU%20Usage%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20100%25;%3E%3E%20Research%20Mode%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20ENABLED;%3E%3E%20Curiosity%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20MAX;%3E%3E%20Coffee%20%20%20%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20REQUIRED;%3E%3E%20Documentation%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20WIP;%3E%3E%20Technical%20Debt%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20ACCEPTABLE;%3E%3E%20Sleep%20%20%20%20%20%20%20%20%20%20%20%20%3A%20%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20NOT%20FOUND;%3E%3E%20Reviewer%20%232%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20DETECTED;%3E%3E%20Relationship%20%20%20%20%20%3A%20Model%20Deprecated;%3E%3E%20Bug%20Count%20%20%20%20%20%20%20%20%3A%20Feature%20Rich%28TM%29;%3E%3E%20Works%20on%20Machine%20%3A%20TRUE;%3E%3E%20Production%20%20%20%20%20%20%20%3A%20let%27s%20not%20talk%20about%20it.;mukilan%40research-node%3A~%24%20_" alt="system diagnostics terminal session"/>
 
-**AI Infrastructure & HPC**
-- Distributed training at scale
-- Throughput and cost-efficient compute pipelines
-
-</td>
-</tr>
-</table>
-
-```
-research/
-├── reinforcement-learning/
-│   ├── policy-optimization/          # PPO, actor-critic, on/off-policy methods
-│   ├── reward-shaping/               # dense vs. sparse reward design
-│   └── sample-efficiency/            # data-efficient RL under constrained compute
-├── agentic-ai/
-│   ├── multi-agent-systems/          # coordination, negotiation, emergent behavior
-│   ├── tool-using-agents/            # function calling, tool selection, execution loops
-│   └── long-horizon-planning/        # memory, subgoal decomposition
-├── autonomous-systems/
-│   ├── perception-planning-control/  # end-to-end pipelines
-│   └── decision-under-uncertainty/   # robust control policies
-├── neuro-symbolic-ai/
-│   └── reasoning-over-representations/
-├── vision-language-models/
-│   └── grounded-multimodal-understanding/
-└── infrastructure/
-    ├── distributed-training/         # multi-GPU / multi-node scaling
-    └── high-performance-computing/   # scheduling, profiling, optimization
-```
+</div>
 
 <br>
 
@@ -99,44 +56,37 @@ research/
 
 <div align="center">
 
-**Languages**
+<sub>curated stack — the final one, promise</sub>
+
+<br><br>
+
+**AI & Research**
+
+![RL](https://img.shields.io/badge/Reinforcement_Learning-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
+![Agentic](https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
+![NeuroSymbolic](https://img.shields.io/badge/Neuro--Symbolic_AI-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
+![CV](https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
+![VLM](https://img.shields.io/badge/Vision--Language_Models-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
+![XAI](https://img.shields.io/badge/Explainable_AI-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
+![MAS](https://img.shields.io/badge/Multi--Agent_Systems-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
+![DLS](https://img.shields.io/badge/Deep_Learning_Systems-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED)
+
+**Systems & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
+![Infra](https://img.shields.io/badge/AI_Infrastructure-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
+![Distributed](https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
+![GPU](https://img.shields.io/badge/GPU_Computing-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
+![CloudNative](https://img.shields.io/badge/Cloud--Native_AI-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
+![HPC](https://img.shields.io/badge/High_Performance_Computing-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
+![MLOps](https://img.shields.io/badge/MLOps_Runtime-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
+
+**Languages, Frameworks & Tools**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,bash&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,bash&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash&theme=dark" alt="languages"/>
-</picture>
-
-**AI / ML**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ai / ml"/>
-</picture>
-
-**Systems / Infra**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,kubernetes,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,kubernetes,git&theme=light">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git&theme=dark" alt="systems"/>
-</picture>
-
-**Cloud / Data**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,postgres,redis&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,postgres,redis&theme=light">
-  <img src="https://skillicons.dev/icons?i=aws,postgres,redis&theme=dark" alt="cloud / data"/>
-</picture>
-
-**Tooling**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,github&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,github&theme=light">
-  <img src="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,github&theme=dark" alt="tooling"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,go,pytorch,tensorflow,cuda,opencv,fastapi,docker,kubernetes,redis,postgres,mongodb,neo4j,git&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,go,pytorch,tensorflow,cuda,opencv,fastapi,docker,kubernetes,redis,postgres,mongodb,neo4j,git&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,pytorch,tensorflow,cuda,opencv,fastapi,docker,kubernetes,redis,postgres,mongodb,neo4j,git&theme=dark" alt="languages, frameworks & tools"/>
 </picture>
 
 </div>
@@ -247,10 +197,6 @@ The stats, streak, top-languages, and trophy case above don't need any of this �
 
 </div>
 
-<table width="100%">
-<tr>
-<td>
-
 Contributor to **[ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)** — the repository behind the YOLO family of real-time computer vision models (object detection, segmentation, classification, pose estimation, and tracking), used across the CV/ML community at production scale.
 
 ```
@@ -259,10 +205,6 @@ $ git log --author="Mukilan" --oneline
 ```
 
 <sub>Swap the placeholder above for links to your actual merged PRs — pin the ones you're proudest of.</sub>
-
-</td>
-</tr>
-</table>
 
 <br>
 
