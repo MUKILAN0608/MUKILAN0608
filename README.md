@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7C3AED,50:C1121F,75:F59E0B,100:0D1117&height=210&section=header&text=MUKILAN%20A.%20M.&fontSize=46&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=AI%20Research%20%7C%20Reinforcement%20Learning%20%7C%20Agentic%20and%20Autonomous%20Systems&descAlignY=56&descSize=17" width="100%"/>
 
-<code>&gt; ACCESS GRANTED</code>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=F59E0B&background=0D11170D&center=true&vCenter=true&width=760&lines=Generalized+after+removing+one+particularly+noisy+sample.;The+model+recovered.+The+lore+didn't.;AI+Confidence%3A+99%25.+Actual+Confidence%3A+Loading...;No+rollback.+Only+character+development." alt="status line"/>
 
 <br>
@@ -18,12 +16,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MUKILAN0608&label=NODE+VIEWS&color=C1121F&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/MUKILAN0608?label=FOLLOWERS&color=7C3AED&style=for-the-badge&labelColor=0D1117" alt="followers"/>
-<img src="https://img.shields.io/github/stars/MUKILAN0608?affiliations=OWNER&label=STARS&color=F59E0B&style=for-the-badge&labelColor=0D1117" alt="stars"/>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:C1121F,100:F59E0B&height=3&width=1000" width="100%"/>
 
 </div>
@@ -34,24 +26,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2400&pause=700&color=14B8A6&background=0D11170D&center=true&vCenter=true&width=700&lines=guest%40research-node%3A~%24+whoami;resolving+identity..." alt="whoami command"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=15&duration=1900&pause=550&color=14B8A6&background=0D1117&center=true&vCenter=true&width=780&lines=mukilan%40research-node%3A~%24+whoami+--verbose;%3E%3E+name+++++++++%3A+Mukilan+A.+M.;%3E%3E+role+++++++++%3A+AI+Research+Engineer;%3E%3E+focus+++++++%3A+Reinforcement+Learning%2C+Agentic+AI%2C+Autonomous+Systems;%3E%3E+secondary+++%3A+Neuro-Symbolic+AI%2C+Vision-Language+Models;%3E%3E+stack_layer++%3A+AI+Infra+%26+Distributed+Systems%2C+HPC;%3E%3E+status+++++++%3A+training+models%2C+occasionally+my+own+patience;%3E%3E+uptime+++++++%3A+since+the+last+noisy+sample+got+dropped;%3E%3E+quote+++++++%3A+the+compiler+was+more+honest+than+most+people;mukilan%40research-node%3A~%24+_" alt="whoami terminal session"/>
 
 </div>
-
-```bash
-mukilan@research-node:~$ whoami --verbose
-
->> name        : Mukilan A. M.
->> role        : AI Research Engineer
->> focus       : Reinforcement Learning, Agentic AI, Autonomous Systems
->> secondary   : Neuro-Symbolic AI, Vision-Language Models
->> stack_layer : AI Infrastructure & Distributed Systems, HPC
->> status      : training models, occasionally my own patience
->> uptime      : since the last noisy sample got dropped from the batch
->> quote       : "the compiler was more honest than most people"
-
-mukilan@research-node:~$ _
-```
 
 <br>
 
