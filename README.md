@@ -4,7 +4,7 @@
 
 <code>&gt; ACCESS GRANTED</code>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=F59E0B&background=0D11170D&center=true&vCenter=true&width=760&lines=Generalized+after+removing+one+particularly+noisy+sample.+%F0%9F%97%BF;The+model+recovered.+The+lore+didn't.;AI+Confidence%3A+99%25.+Actual+Confidence%3A+Loading...;No+rollback.+Only+character+development." alt="status line"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=F59E0B&background=0D11170D&center=true&vCenter=true&width=760&lines=Generalized+after+removing+one+particularly+noisy+sample.;The+model+recovered.+The+lore+didn't.;AI+Confidence%3A+99%25.+Actual+Confidence%3A+Loading...;No+rollback.+Only+character+development." alt="status line"/>
 
 <br>
 
@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="node booting"/>
 </picture>
 
-<sub><code>booting research node ⚡ loading weights ⚡ aura: stable</code></sub>
+<sub><code>booting research node · loading weights · aura: stable</code></sub>
 
 <br><br>
 
@@ -30,102 +30,90 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-RESEARCH%20CONSOLE-C1121F?style=for-the-badge&labelColor=0D1117&logo=linux&logoColor=E6EDF3" />
+## <img src="https://img.shields.io/badge/-WHOAMI-7C3AED?style=for-the-badge&labelColor=0D1117&logo=gnometerminal&logoColor=E6EDF3" />
 
 <div align="center">
 
-<table>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2400&pause=700&color=14B8A6&background=0D11170D&center=true&vCenter=true&width=700&lines=guest%40research-node%3A~%24+whoami;resolving+identity..." alt="whoami command"/>
+
+</div>
+
+```bash
+mukilan@research-node:~$ whoami --verbose
+
+>> name        : Mukilan A. M.
+>> role        : AI Research Engineer
+>> focus       : Reinforcement Learning, Agentic AI, Autonomous Systems
+>> secondary   : Neuro-Symbolic AI, Vision-Language Models
+>> stack_layer : AI Infrastructure & Distributed Systems, HPC
+>> status      : training models, occasionally my own patience
+>> uptime      : since the last noisy sample got dropped from the batch
+>> quote       : "the compiler was more honest than most people"
+
+mukilan@research-node:~$ _
+```
+
+<br>
+
+## <img src="https://img.shields.io/badge/-RESEARCH%20FOCUS-F59E0B?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=E6EDF3" />
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**STATUS**
-<br>
-<img src="https://img.shields.io/badge/ONLINE-training%20in%20the%20background-22C55E?style=flat-square&labelColor=0D1117" />
+**Reinforcement Learning**
+- Policy optimization (PPO, actor-critic variants)
+- Reward shaping & credit assignment
+- Sample-efficient training under sparse rewards
 
-**GPU**
-<br>
-<img src="https://img.shields.io/badge/UTILIZATION-saturated.%20so%20am%20I.-F59E0B?style=flat-square&labelColor=0D1117" />
+**Agentic AI**
+- Multi-agent coordination & communication protocols
+- Tool-using and tool-calling agents
+- Long-horizon planning and memory for agents
 
-**CURRENT BUILD**
-<br>
-<img src="https://img.shields.io/badge/v0.dev-never%20quite%20stable-7C3AED?style=flat-square&labelColor=0D1117" />
-
-**CURRENT RESEARCH**
-<br>
-<img src="https://img.shields.io/badge/RL%20%C2%B7%20Agentic%20AI-in%20progress-14B8A6?style=flat-square&labelColor=0D1117" />
+**Autonomous Systems**
+- Perception → planning → control pipelines
+- Real-time decision-making under uncertainty
 
 </td>
 <td width="50%" valign="top">
 
-**SYSTEM HEALTH**
-<br>
-<img src="https://img.shields.io/badge/GREEN-mostly%20out%20of%20stubbornness-22C55E?style=flat-square&labelColor=0D1117" />
+**Neuro-Symbolic AI**
+- Reasoning over learned representations
+- Hybrid symbolic-neural inference
 
-**LAST FAILURE**
-<br>
-<img src="https://img.shields.io/badge/47s%20ago-gradient%20exploded-C1121F?style=flat-square&labelColor=0D1117" />
+**Vision-Language Models**
+- Grounded multimodal understanding
+- Vision-language alignment for downstream tasks
 
-**LAST COMMIT**
-<br>
-<img src="https://img.shields.io/badge/%22fix%22-fixed%20nothing-F59E0B?style=flat-square&labelColor=0D1117" />
-
-**UPTIME**
-<br>
-<img src="https://img.shields.io/badge/since-the%20last%20noisy%20sample%20was%20removed-7C3AED?style=flat-square&labelColor=0D1117" />
+**AI Infrastructure & HPC**
+- Distributed training at scale
+- Throughput and cost-efficient compute pipelines
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br>
-
-## <img src="https://img.shields.io/badge/-WHOAMI-7C3AED?style=for-the-badge&labelColor=0D1117&logo=gnometerminal&logoColor=E6EDF3" />
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=14B8A6&background=0D11170D&center=true&vCenter=true&width=640&lines=%24+whoami;ai-research-engineer;reinforcement-learning+.+agentic-systems;role%3A+professional-bug-manufacturer" alt="whoami terminal"/>
-
-</div>
-
-```yaml
-about:
-  name: "Mukilan A. M."
-  role: "AI Research Engineer"
-  focus:
-    - Reinforcement Learning
-    - Agentic AI
-    - Autonomous Intelligent Systems
-    - Neuro-Symbolic AI
-    - Vision Language Models
-    - AI Infrastructure & Distributed Systems
-    - High Performance Computing
-  currently: "training models, and occasionally my own patience"
-  compiler_note: "the compiler was more honest than most people"
-```
-
-<br>
-
-## <img src="https://img.shields.io/badge/-RESEARCH%20INTERESTS-F59E0B?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=E6EDF3" />
-
 ```
 research/
 ├── reinforcement-learning/
-│   ├── policy-optimization/
-│   └── reward-shaping/              # currently on fire, in a good way
+│   ├── policy-optimization/          # PPO, actor-critic, on/off-policy methods
+│   ├── reward-shaping/               # dense vs. sparse reward design
+│   └── sample-efficiency/            # data-efficient RL under constrained compute
 ├── agentic-ai/
-│   ├── multi-agent-systems/
-│   └── tool-using-agents/
+│   ├── multi-agent-systems/          # coordination, negotiation, emergent behavior
+│   ├── tool-using-agents/            # function calling, tool selection, execution loops
+│   └── long-horizon-planning/        # memory, subgoal decomposition
 ├── autonomous-systems/
-│   └── perception-planning-control/
+│   ├── perception-planning-control/  # end-to-end pipelines
+│   └── decision-under-uncertainty/   # robust control policies
 ├── neuro-symbolic-ai/
 │   └── reasoning-over-representations/
 ├── vision-language-models/
 │   └── grounded-multimodal-understanding/
 └── infrastructure/
-    ├── distributed-training/
-    └── high-performance-computing/
+    ├── distributed-training/         # multi-GPU / multi-node scaling
+    └── high-performance-computing/   # scheduling, profiling, optimization
 ```
 
 <br>
@@ -198,15 +186,12 @@ research/
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&hide_border=false&bg_color=ffffff&title_color=C1121F&text_color=1a1a1a&border_color=C1121F">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN0608&layout=compact&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E6EDF3&border_color=7C3AED" width="49%" alt="top languages"/>
 </picture>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=0D1117&color=E6EDF3&line=F59E0B&point=C1121F&area=true&area_color=7C3AED&title_color=C1121F&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=ffffff&color=1a1a1a&line=C1121F&point=C1121F&area=true&area_color=F59E0B&title_color=C1121F&hide_border=false">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=0D1117&color=E6EDF3&line=F59E0B&point=C1121F&area=true&area_color=7C3AED&title_color=C1121F&hide_border=true" width="49%" alt="activity graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=dark&no-frame=true&row=1&column=6&margin-w=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=flat&no-frame=true&row=1&column=6&margin-w=8">
+  <img src="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=dark&no-frame=true&row=1&column=6&margin-w=8" width="90%" alt="trophy case"/>
 </picture>
-
-**Contribution Calendar**
-
-<img src="https://ghchart.rshah.org/C1121F/MUKILAN0608" width="90%" alt="contribution calendar"/>
 
 **Contribution Snake**
 
@@ -214,14 +199,6 @@ research/
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUKILAN0608/MUKILAN0608/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUKILAN0608/MUKILAN0608/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/MUKILAN0608/MUKILAN0608/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
-</picture>
-
-**Trophy Case**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=dark&no-frame=true&row=1&column=6&margin-w=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=flat&no-frame=true&row=1&column=6&margin-w=8">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=dark&no-frame=true&row=1&column=6&margin-w=8" width="90%" alt="trophy case"/>
 </picture>
 
 </div>
@@ -271,7 +248,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-The stats, streak, top-languages, activity graph, calendar, and trophy case above don't need any of this — they render live with zero setup, so the section never looks empty while the snake workflow is pending.
+The stats, streak, top-languages, and trophy case above don't need any of this — they render live with zero setup, so the section never looks empty while the snake workflow is pending.
 
 </details>
 
@@ -316,7 +293,10 @@ $ git log --author="Mukilan" --oneline
 
 <div align="center">
 
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED" /></a>
+<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://x.com/REPLACE_ME"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=E6EDF3" /></a>
+<a href="https://discord.com/users/REPLACE_ME"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
+<a href="https://orcid.org/REPLACE_ME"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39" /></a>
 <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C1121F" /></a>
 <a href="https://REPLACE_ME.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=F59E0B" /></a>
 <a href="https://scholar.google.com/citations?user=REPLACE_ME"><img src="https://img.shields.io/badge/Google_Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=14B8A6" /></a>
@@ -333,8 +313,10 @@ $ git log --author="Mukilan" --oneline
 <br>
 
 ```
-Package 'sleep' has been removed.
+Reading package lists... Done
+Building dependency tree... Done
 E: Unable to locate package sleep
+Note: 'sleep' was replaced by 'deadline' in this distribution.
 ```
 
 </details>
@@ -345,7 +327,18 @@ E: Unable to locate package sleep
 
 ```
 * main
-  (no other branches. no merge conflicts either.)
+  (0 other branches, 0 merge conflicts, 0 pending PRs)
+```
+
+</details>
+
+<details>
+<summary><code>$ ps aux | grep sleep_schedule</code></summary>
+<br>
+
+```
+mukilan   1337  0.0  train.py --epochs=inf
+[no matching process found]
 ```
 
 </details>
