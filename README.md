@@ -41,27 +41,31 @@
 <br><br>
 
 
-<h2 align="center"><img src="https://img.shields.io/badge/-SYSTEM%20DIAGNOSTICS-C1121F?style=for-the-badge&labelColor=0D1117&logo=htop&logoColor=E6EDF3" /></h2>
+<h2 align="center"> SYSTEM DIAGNOSTICS</h2>
 
-<div align="center">
+<p align="center">
 
-![GPU Usage](https://img.shields.io/badge/GPU_Usage-100%25-brightgreen?style=for-the-badge&labelColor=0D1117)
-![Research Mode](https://img.shields.io/badge/Research_Mode-ENABLED-brightgreen?style=for-the-badge&labelColor=0D1117)
-![Curiosity](https://img.shields.io/badge/Curiosity-MAX-brightgreen?style=for-the-badge&labelColor=0D1117)
-![Works on My Machine](https://img.shields.io/badge/Works_on_My_Machine-TRUE-brightgreen?style=for-the-badge&labelColor=0D1117)
+<img src="https://progress-bar.dev/100/?title=GPU%20Usage&width=600&color=00ff88"/>
 
-![Coffee](https://img.shields.io/badge/Coffee-REQUIRED-orange?style=for-the-badge&labelColor=0D1117)
-![Documentation](https://img.shields.io/badge/Documentation-WIP-yellow?style=for-the-badge&labelColor=0D1117)
-![Technical Debt](https://img.shields.io/badge/Technical_Debt-ACCEPTABLE-yellow?style=for-the-badge&labelColor=0D1117)
-![Bug Count](https://img.shields.io/badge/Bug_Count-Feature_Rich_TM-orange?style=for-the-badge&labelColor=0D1117)
+<img src="https://progress-bar.dev/100/?title=Research%20Mode&width=600&color=00ff88"/>
 
-![Sleep](https://img.shields.io/badge/Sleep-NOT_FOUND-red?style=for-the-badge&labelColor=0D1117)
-![Reviewer 2](https://img.shields.io/badge/Reviewer_%232-DETECTED-red?style=for-the-badge&labelColor=0D1117)
-![Relationship](https://img.shields.io/badge/Relationship-Model_Deprecated-lightgrey?style=for-the-badge&labelColor=0D1117)
-![Production](https://img.shields.io/badge/Production-Lets_Not_Talk_About_It-critical?style=for-the-badge&labelColor=0D1117)
+<img src="https://progress-bar.dev/100/?title=Curiosity&width=600&color=00ff88"/>
 
-</div>
+<img src="https://progress-bar.dev/92/?title=Coffee&width=600&color=ff9800"/>
 
+<img src="https://progress-bar.dev/67/?title=Documentation&width=600&color=f1c40f"/>
+
+<img src="https://progress-bar.dev/41/?title=Technical%20Debt&width=600&color=f39c12"/>
+
+<img src="https://progress-bar.dev/78/?title=Bug%20Count&width=600&color=e67e22"/>
+
+<img src="https://progress-bar.dev/0/?title=Sleep&width=600&color=e74c3c"/>
+
+<img src="https://progress-bar.dev/100/?title=Reviewer%20%232&width=600&color=ff0000"/>
+
+<img src="https://progress-bar.dev/14/?title=Production%20Safety&width=600&color=c0392b"/>
+
+</p>
 <br>
 
 <h2 align="center"><img src="https://img.shields.io/badge/-TECHNOLOGY%20STACK-14B8A6?style=for-the-badge&labelColor=0D1117&logo=nvidia&logoColor=E6EDF3" /></h2>
