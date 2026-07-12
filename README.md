@@ -26,65 +26,6 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-RESEARCH%20CONSOLE-C1121F?style=for-the-badge&labelColor=0D1117&logo=linux&logoColor=E6EDF3" />
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**STATUS**
-<br>
-<img src="https://img.shields.io/badge/ONLINE-training%20in%20the%20background-22C55E?style=flat-square&labelColor=0D1117" />
-
-**GPU**
-<br>
-<img src="https://img.shields.io/badge/UTILIZATION-saturated.%20so%20am%20I.-F59E0B?style=flat-square&labelColor=0D1117" />
-
-**CURRENT BUILD**
-<br>
-<img src="https://img.shields.io/badge/v0.dev-never%20quite%20stable-7C3AED?style=flat-square&labelColor=0D1117" />
-
-**CURRENT RESEARCH**
-<br>
-<img src="https://img.shields.io/badge/RL%20%C2%B7%20Agentic%20AI-in%20progress-14B8A6?style=flat-square&labelColor=0D1117" />
-
-</td>
-<td width="50%" valign="top">
-
-**SYSTEM HEALTH**
-<br>
-<img src="https://img.shields.io/badge/GREEN-mostly%20out%20of%20stubbornness-22C55E?style=flat-square&labelColor=0D1117" />
-
-**LAST FAILURE**
-<br>
-<img src="https://img.shields.io/badge/47s%20ago-gradient%20exploded-C1121F?style=flat-square&labelColor=0D1117" />
-
-**LAST COMMIT**
-<br>
-<img src="https://img.shields.io/badge/%22fix%22-fixed%20nothing-F59E0B?style=flat-square&labelColor=0D1117" />
-
-**UPTIME**
-<br>
-<img src="https://img.shields.io/badge/since-the%20last%20noisy%20sample%20was%20removed-7C3AED?style=flat-square&labelColor=0D1117" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="360" alt="multi-screen analysis"/>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:14B8A6,100:7C3AED&height=3&width=1000" width="100%"/>
-</div>
-
-<br>
-
 ## <img src="https://img.shields.io/badge/-WHOAMI-7C3AED?style=for-the-badge&labelColor=0D1117&logo=gnometerminal&logoColor=E6EDF3" />
 
 <div align="center">
@@ -110,6 +51,12 @@ about:
   currently: "training models, and occasionally my own patience"
   compiler_note: "the compiler was more honest than most people"
 ```
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:F59E0B,100:C1121F&height=3&width=1000" width="100%"/>
+</div>
 
 <br>
 
@@ -146,65 +93,76 @@ research/
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-
 **Languages**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,bash&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,bash&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash&theme=dark" alt="languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,c,bash,r&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,c,bash,r&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,r&theme=dark" alt="languages"/>
 </picture>
 
-</td>
-<td align="center" width="20%">
+<br><br>
 
-**AI / ML**
+**Deep Learning & ML Frameworks**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ai / ml"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas&theme=light">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas&theme=dark" alt="deep learning"/>
 </picture>
 
-</td>
-<td align="center" width="20%">
+<br><br>
 
-**Systems / Infra**
+**RL / Agentic AI / MLOps**
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=0D1117" />
+<br>
+<img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Gymnasium%20%2F%20OpenAI%20Gym-0D1117?style=for-the-badge&logo=openai&logoColor=F59E0B&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Stable%20Baselines3-0D1117?style=for-the-badge&logo=python&logoColor=14B8A6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" />
+
+<br><br>
+
+**Systems, Infra & DevOps**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,kubernetes,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,kubernetes,git&theme=light">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git&theme=dark" alt="systems"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,git,github&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,git,github&theme=light">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,git,github&theme=dark" alt="systems / infra"/>
 </picture>
 
-</td>
-<td align="center" width="20%">
+<br><br>
 
-**Cloud / Data**
+**Cloud & Data**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,postgres,redis&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,postgres,redis&theme=light">
-  <img src="https://skillicons.dev/icons?i=aws,postgres,redis&theme=dark" alt="cloud / data"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,postgres,redis,mongodb,kafka&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,postgres,redis,mongodb,kafka&theme=light">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,postgres,redis,mongodb,kafka&theme=dark" alt="cloud / data"/>
 </picture>
 
-</td>
-<td align="center" width="20%">
+<br><br>
 
-**Tooling**
+**HPC & Acceleration**
+
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Slurm-0D1117?style=for-the-badge&logo=cachet&logoColor=C1121F&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MPI-0D1117?style=for-the-badge&logo=speedtest&logoColor=7C3AED&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/DeepSpeed-0D1117?style=for-the-badge&logo=microsoft&logoColor=14B8A6&labelColor=0D1117" />
+
+<br><br>
+
+**Tooling & Editors**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,github&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,github&theme=light">
-  <img src="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,github&theme=dark" alt="tooling"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,vim,latex&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,vim,latex&theme=light">
+  <img src="https://skillicons.dev/icons?i=jupyter,fastapi,vscode,vim,latex&theme=dark" alt="tooling"/>
 </picture>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -226,6 +184,8 @@ research/
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=0D1117&color=E6EDF3&line=F59E0B&point=C1121F&area=true&area_color=7C3AED&title_color=C1121F&hide_border=true" width="100%" alt="activity graph"/>
 </picture>
 
+<br><br>
+
 **Contribution Snake**
 
 <picture>
@@ -235,55 +195,6 @@ research/
 </picture>
 
 </div>
-
-<details>
-<summary><b>snake grid not showing?</b> — the two most common causes</summary>
-<br>
-
-The snake SVG only exists once a GitHub Action has actually run and pushed it to an `output` branch. A blank image almost always means one of these:
-
-1. **The workflow never ran.** Adding the YAML below doesn't run it automatically the first time — go to **Actions → snake → Run workflow** and trigger it manually once.
-2. **Workflow permissions are read-only.** Go to **Settings → Actions → General → Workflow permissions** and set it to **Read and write permissions**, otherwise the push step fails silently.
-3. **Repo name mismatch.** This only works inside your special profile repo, named exactly `MUKILAN0608/MUKILAN0608`.
-4. **The `output` branch doesn't exist yet.** After a successful run, check the branch dropdown — if `output` is missing, the push step failed (see #2).
-
-```yaml
-name: snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: generate snake svg
-        uses: Platane/snk@v3.5.0
-        with:
-          github_user_name: MUKILAN0608
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23C1121F&color_dots=%230D1117,%237C3AED,%23C1121F,%23F59E0B,%23E6EDF3
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F59E0B&color_dots=%230D1117,%237C3AED,%23C1121F,%23F59E0B,%23E6EDF3
-
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-The activity graph above doesn't need any of this — it renders live from the API with zero setup, so this section never looks empty while the snake workflow is pending.
-
-</details>
 
 <br>
 
