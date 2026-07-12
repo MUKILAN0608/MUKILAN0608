@@ -12,7 +12,6 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="node booting"/>
 </picture>
 
-<sub><code>booting research node · loading weights · aura: stable</code></sub>
 
 <br><br>
 
