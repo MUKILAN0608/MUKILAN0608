@@ -1,14 +1,16 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,25:7C3AED,50:C1121F,75:F59E0B,100:0D1117&height=210&section=header&text=MUKILAN%20A.%20M.&fontSize=46&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=AI%20Research%20%7C%20Reinforcement%20Learning%20%7C%20Agentic%20and%20Autonomous%20Systems&descAlignY=56&descSize=17" width="100%"/>
+
 <code>&gt; ACCESS GRANTED</code>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2800&pause=1200&color=F59E0B&background=0D11170D&center=true&vCenter=true&width=760&lines=Generalized+after+removing+one+particularly+noisy+sample.+%F0%9F%97%BF;The+model+recovered.+The+lore+didn't.;AI+Confidence%3A+99%25.+Actual+Confidence%3A+Loading...;No+rollback.+Only+character+development." alt="status line"/>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="380" alt="live systems readout"/>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="280" alt="live systems readout"/>
 
-<sub><code>booting research node ⚡ loading weights ⚡ aura: stable</code></sub>
+<sub><code>booting research node . loading weights . aura: stable</code></sub>
 
 <br><br>
 
@@ -176,6 +178,10 @@ research/
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=MUKILAN0608&theme=dark&hide_border=true&background=0D1117&stroke=7C3AED&ring=C1121F&fire=F59E0B&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=6B7280&currStreakNum=E6EDF3&sideNums=E6EDF3" width="100%" alt="streak stats"/>
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=0D1117&color=E6EDF3&line=F59E0B&point=C1121F&area=true&area_color=7C3AED&title_color=C1121F&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN0608&bg_color=ffffff&color=1a1a1a&line=C1121F&point=C1121F&area=true&area_color=F59E0B&title_color=C1121F&hide_border=false">
@@ -287,10 +293,10 @@ E: Unable to locate package sleep
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="130" alt="wave goodbye"/>
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="160" alt="signing off"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2600&pause=1000&color=7C3AED&background=0D11170D&center=true&vCenter=true&width=600&lines=%24+logout;Saving+session...;Session+terminated.;See+you+in+the+next+commit." alt="logout terminal"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:F59E0B,50:C1121F,75:7C3AED,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,25:F59E0B,50:C1121F,75:7C3AED,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
