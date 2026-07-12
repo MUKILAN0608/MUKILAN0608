@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=14&duration=2200&pause=600&color=14B8A6&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=290&lines=mukilan%40research-node%3A~%24%20whoami%20--verbose;%3E%3E%20name%20%20%20%20%20%20%20%20%20%20%3A%20Mukilan%20A.%20M.;%3E%3E%20role%20%20%20%20%20%20%20%20%20%20%3A%20AI%20Research%20Engineer;%3E%3E%20focus%20%20%20%20%20%20%20%20%20%3A%20Reinforcement%20Learning%2C%20Agentic%20AI%2C%20Autonomous%20Systems;%3E%3E%20secondary%20%20%20%20%20%3A%20Neuro-Symbolic%20AI%2C%20Vision-Language%20Models;%3E%3E%20stack_layer%20%20%20%3A%20AI%20Infra%20%26%20Distributed%20Systems%2C%20HPC;%3E%3E%20shell%20%20%20%20%20%20%20%20%20%3A%20%2Fbin%2Fcuriosity;%3E%3E%20uptime%20%20%20%20%20%20%20%20%3A%20since%20the%20last%20noisy%20sample%20got%20dropped;%3E%3E%20load_avg%20%20%20%20%20%20%3A%201.00%2C%201.00%2C%201.00%20%28always%20training%29;%3E%3E%20status%20%20%20%20%20%20%20%20%3A%20training%20models%2C%20occasionally%20my%20own%20patience;%3E%3E%20quote%20%20%20%20%20%20%20%20%20%3A%20the%20compiler%20was%20more%20honest%20than%20most%20people;mukilan%40research-node%3A~%24%20_" alt="whoami terminal session"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2200&pause=600&color=14B8A6&background=0D1117&center=true&vCenter=true&multiline=true&width=1000&height=340&lines=mukilan%40research-node%3A~%24%20whoami%20--verbose;%3E%3E%20name%20%20%20%20%20%20%20%20%20%20%3A%20Mukilan%20A.%20M.;%3E%3E%20role%20%20%20%20%20%20%20%20%20%20%3A%20AI%20Research%20Engineer;%3E%3E%20focus%20%20%20%20%20%20%20%20%20%3A%20Reinforcement%20Learning%2C%20Agentic%20AI%2C%20Autonomous%20Systems;%3E%3E%20secondary%20%20%20%20%20%3A%20Neuro-Symbolic%20AI%2C%20Vision-Language%20Models;%3E%3E%20stack_layer%20%20%20%3A%20AI%20Infra%20%26%20Distributed%20Systems%2C%20HPC;%3E%3E%20shell%20%20%20%20%20%20%20%20%20%3A%20%2Fbin%2Fcuriosity;%3E%3E%20uptime%20%20%20%20%20%20%20%20%3A%20since%20the%20last%20noisy%20sample%20got%20dropped;%3E%3E%20load_avg%20%20%20%20%20%20%3A%201.00%2C%201.00%2C%201.00%20%28always%20training%29;%3E%3E%20status%20%20%20%20%20%20%20%20%3A%20training%20models%2C%20occasionally%20my%20own%20patience;%3E%3E%20quote%20%20%20%20%20%20%20%20%20%3A%20the%20compiler%20was%20more%20honest%20than%20most%20people;mukilan%40research-node%3A~%24%20_" alt="whoami terminal session"/>
 
 </div>
 
@@ -34,11 +34,32 @@
 
 ## <img src="https://img.shields.io/badge/-RESEARCH%20FOCUS-F59E0B?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=E6EDF3" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=13&duration=2600&pause=700&color=E6EDF3&background=0D1117&center=true&vCenter=true&multiline=true&width=920&height=230&lines=mukilan%40research-node%3A~%24%20cat%20research_focus.log;%3E%3E%20%5Breinforcement_learning%5D%20%20%20policy%20optimization%20%28PPO%2C%20actor-critic%29%2C%20reward%20shaping%2C%20sample-efficient%20RL%20under%20sparse%20rewards;%3E%3E%20%5Bagentic_ai%5D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20multi-agent%20coordination%2C%20tool-using%20agents%2C%20long-horizon%20planning%20%26%20memory;%3E%3E%20%5Bautonomous_systems%5D%20%20%20%20%20%20%20perception%20-%3E%20planning%20-%3E%20control%2C%20real-time%20decisions%20under%20uncertainty;%3E%3E%20%5Bneuro_symbolic_ai%5D%20%20%20%20%20%20%20%20reasoning%20over%20learned%20representations%2C%20hybrid%20symbolic-neural%20inference;%3E%3E%20%5Bvision_language_models%5D%20%20%20grounded%20multimodal%20understanding%2C%20vision-language%20alignment;%3E%3E%20%5Bai_infrastructure%5D%20%20%20%20%20%20%20%20distributed%20training%20at%20scale%2C%20throughput%20%26%20cost-efficient%20compute%20pipelines;mukilan%40research-node%3A~%24%20tail%20-f%20research_focus.log" alt="research focus terminal session"/>
-
-</div>
+```
+research/
+├── reinforcement-learning/
+│   ├── policy-optimization.py        # PPO, actor-critic, on/off-policy methods
+│   ├── reward-shaping.py             # dense vs. sparse reward design
+│   └── sample-efficiency.py          # data-efficient RL under constrained compute
+│
+├── agentic-ai/
+│   ├── multi-agent-systems.py        # coordination, negotiation, emergent behavior
+│   ├── tool-using-agents.py          # function calling, tool selection, execution loops
+│   └── long-horizon-planning.py      # memory, subgoal decomposition
+│
+├── autonomous-systems/
+│   ├── perception-planning-control.py    # end-to-end pipelines
+│   └── decision-under-uncertainty.py     # robust control policies
+│
+├── neuro-symbolic-ai/
+│   └── reasoning-over-representations.py
+│
+├── vision-language-models/
+│   └── grounded-multimodal-understanding.py
+│
+└── infrastructure/
+    ├── distributed-training.py       # multi-GPU / multi-node scaling
+    └── high-performance-computing.py # scheduling, profiling, optimization
+```
 
 <br>
 
@@ -46,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=13&duration=2200&pause=700&color=F59E0B&background=0D1117&center=true&vCenter=true&multiline=true&width=920&height=340&lines=mukilan%40research-node%3A~%24%20stats%20--live%20--no-sleep;%3E%3E%20GPU%20Usage%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20100%25;%3E%3E%20Research%20Mode%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20ENABLED;%3E%3E%20Curiosity%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20MAX;%3E%3E%20Coffee%20%20%20%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20REQUIRED;%3E%3E%20Documentation%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20WIP;%3E%3E%20Technical%20Debt%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20ACCEPTABLE;%3E%3E%20Sleep%20%20%20%20%20%20%20%20%20%20%20%20%3A%20%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20NOT%20FOUND;%3E%3E%20Reviewer%20%232%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20DETECTED;%3E%3E%20Relationship%20%20%20%20%20%3A%20Model%20Deprecated;%3E%3E%20Bug%20Count%20%20%20%20%20%20%20%20%3A%20Feature%20Rich%28TM%29;%3E%3E%20Works%20on%20Machine%20%3A%20TRUE;%3E%3E%20Production%20%20%20%20%20%20%20%3A%20let%27s%20not%20talk%20about%20it.;mukilan%40research-node%3A~%24%20_" alt="system diagnostics terminal session"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2100&pause=900&color=F59E0B&background=0D1117&center=true&vCenter=true&width=1000&lines=mukilan%40research-node%3A~%24%20stats%20--live%20--no-sleep;%3E%3E%20GPU%20Usage%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20100%25;%3E%3E%20Research%20Mode%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20ENABLED;%3E%3E%20Curiosity%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20MAX;%3E%3E%20Coffee%20%20%20%20%20%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20REQUIRED;%3E%3E%20Documentation%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20WIP;%3E%3E%20Technical%20Debt%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20ACCEPTABLE;%3E%3E%20Sleep%20%20%20%20%20%20%20%20%20%20%20%20%3A%20%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20NOT%20FOUND;%3E%3E%20Reviewer%20%232%20%20%20%20%20%20%3A%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20DETECTED;%3E%3E%20Relationship%20%20%20%20%20%3A%20Model%20Deprecated;%3E%3E%20Bug%20Count%20%20%20%20%20%20%20%20%3A%20Feature%20Rich%28TM%29;%3E%3E%20Works%20on%20Machine%20%3A%20TRUE;%3E%3E%20Production%20%20%20%20%20%20%20%3A%20let%27s%20not%20talk%20about%20it." alt="system diagnostics terminal session"/>
 
 </div>
 
@@ -81,13 +102,43 @@
 ![HPC](https://img.shields.io/badge/High_Performance_Computing-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
 ![MLOps](https://img.shields.io/badge/MLOps_Runtime-0D1117?style=flat-square&labelColor=0D1117&color=F59E0B)
 
-**Languages, Frameworks & Tools**
+**Languages**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,go,pytorch,tensorflow,cuda,opencv,fastapi,docker,kubernetes,redis,postgres,mongodb,neo4j,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,cpp,go,pytorch,tensorflow,cuda,opencv,fastapi,docker,kubernetes,redis,postgres,mongodb,neo4j,git&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,pytorch,tensorflow,cuda,opencv,fastapi,docker,kubernetes,redis,postgres,mongodb,neo4j,git&theme=dark" alt="languages, frameworks & tools"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,go&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cpp,go&theme=light">
+  <img src="https://skillicons.dev/icons?i=py,cpp,go&theme=dark" alt="languages: python, c++, go"/>
 </picture>
+
+**Frameworks & Libraries**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi&theme=light">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi&theme=dark" alt="frameworks: pytorch, tensorflow, opencv, fastapi"/>
+</picture>
+<br>
+
+![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=flat-square&labelColor=0D1117&color=76B900&logo=nvidia&logoColor=76B900)
+
+**DevOps & Runtime**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,linux,git&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,linux,git&theme=light">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git&theme=dark" alt="devops: docker, kubernetes, linux, git"/>
+</picture>
+
+**Databases**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis,postgres,mongodb&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis,postgres,mongodb&theme=light">
+  <img src="https://skillicons.dev/icons?i=redis,postgres,mongodb&theme=dark" alt="databases: redis, postgresql, mongodb"/>
+</picture>
+<br>
+
+![Neo4j](https://img.shields.io/badge/Neo4j-0D1117?style=flat-square&labelColor=0D1117&color=4581C3&logo=neo4j&logoColor=4581C3)
 
 </div>
 
