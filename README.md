@@ -18,7 +18,7 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-TERMINAL-C1121F?style=for-the-badge&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-TERMINAL-FF3B3B?style=for-the-badge&labelColor=0D1117" />
 
 <div align="center">
 
@@ -26,21 +26,25 @@
 
 </div>
 
+<div align="center">
+
 ```yaml
 status: "Recovering Overfitter"
 currently: "training logs, at 2am, alone, by choice"
 ```
 
+</div>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Medical%20AI%20%26%20Computer%20Vision-C1121F?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Medical%20AI%20%26%20Computer%20Vision-FF3B3B?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Reinforcement%20Learning-C1121F?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Agentic%20AI-C1121F?style=for-the-badge&labelColor=0D1117" /><br>
+<img src="https://img.shields.io/badge/Agentic%20AI-8B0000?style=for-the-badge&labelColor=0D1117" /><br>
 <img src="https://img.shields.io/badge/Neuro%20Symbolic%20AI-C1121F?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Vision%20Language%20Models-C1121F?style=for-the-badge&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/AI%20Infrastructure-C1121F?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Vision%20Language%20Models-FF3B3B?style=for-the-badge&labelColor=0D1117" /><br>
+<img src="https://img.shields.io/badge/AI%20Infrastructure-8B0000?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Distributed%20Systems-C1121F?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/High%20Performance%20Computing-C1121F?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/High%20Performance%20Computing-FF3B3B?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -48,57 +52,83 @@ currently: "training logs, at 2am, alone, by choice"
 
 ## <img src="https://img.shields.io/badge/-COGNITIVE%20ARCHITECTURE-C1121F?style=for-the-badge&labelColor=0D1117" />
 
-```
-   PERCEPTION            REASONING              EXECUTION
-   ───────────           ───────────            ───────────
-   Vision                Reinforcement          Infrastructure
-   VLMs           ──▶     Learning       ──▶     Linux Systems
-   Medical Imaging        Agentic / Neuro-       Distributed
-   Explainable AI         Symbolic AI            GPU Compute
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MUKILAN0608/MUKILAN0608/main/assets/cognitive-architecture.svg" width="100%" alt="cognitive architecture: perception, reasoning, execution"/>
+
+</div>
+
+<details>
+<summary>using this diagram</summary>
+<br>
+
+It's a real SVG, not ASCII in a code block — that's what makes the colors, gradients, and per-stage accent bars possible. To use it:
+
+1. Add the file to your repo at `assets/cognitive-architecture.svg`.
+2. Commit and push to `main`.
+3. The image tag above already points at that path, so it resolves as soon as the file exists.
+
+</details>
 
 <br>
 
-## <img src="https://img.shields.io/badge/-TECHNOLOGY%20STACK-C1121F?style=for-the-badge&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-TECHNOLOGY%20STACK-8B0000?style=for-the-badge&labelColor=0D1117" />
+
+<div align="center">
 
 > not gonna lie — good at some of this, mid at some, bad at the rest. no idea which is which. check my repos.
 
 <table width="100%">
 <tr>
-<td valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 
 **Languages**
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=FF3B3B" />
+<br><br>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF3B3B" /><br>
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=C1121F" /><br>
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=8B0000" />
 
 </td>
-<td valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 
 **AI / ML**
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FF3B3B" />
+<br><br>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF3B3B" /><br>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=C1121F" /><br>
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=8B0000" />
 
 </td>
-<td valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 
 **Systems**
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF3B3B" />
+<br><br>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF3B3B" /><br>
+<img src="https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=C1121F" /><br>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=8B0000" />
 
 </td>
-<td valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 
 **Cloud / Data**
-<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF3B3B" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF3B3B" />
+<br><br>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF3B3B" /><br>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=C1121F" /><br>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=8B0000" />
+
+</td>
+<td align="center" valign="top" width="20%">
+
+**Tooling**
+<br><br>
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=FF3B3B" /><br>
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=C1121F" /><br>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=8B0000" />
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -108,6 +138,8 @@ currently: "training logs, at 2am, alone, by choice"
 
 <img src="https://github-readme-stats.vercel.app/api?username=MUKILAN0608&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3B3B&icon_color=C1121F&text_color=E6EDF3&ring_color=8B0000" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN0608&hide_border=true&background=0D1117&stroke=8B0000&ring=C1121F&fire=FF3B3B&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3" width="49%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MUKILAN0608&theme=darkhub&no-frame=true&no-bg=false&row=1&column=6&bg_color=0D1117&title_color=FF3B3B&icon_color=C1121F&border_radius=10" width="90%"/>
 
 **Contribution Snake**
 
@@ -173,7 +205,7 @@ jobs:
 
 <br>
 
-## <img src="https://img.shields.io/badge/-CONTACT-C1121F?style=for-the-badge&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-CONTACT-FF3B3B?style=for-the-badge&labelColor=0D1117" />
 
 <div align="center">
 
@@ -186,6 +218,8 @@ jobs:
 </div>
 
 <br>
+
+<div align="center">
 
 <details>
 <summary><code>$ sudo apt install sleep</code></summary>
@@ -208,6 +242,8 @@ Bugs have root access. Negotiations ongoing.
 ```
 
 </details>
+
+</div>
 
 <br>
 
