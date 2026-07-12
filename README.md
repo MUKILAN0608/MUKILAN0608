@@ -169,15 +169,33 @@ Contributor to **[ultralytics/ultralytics](https://github.com/ultralytics/ultral
 <h2 align="center"><img src="https://img.shields.io/badge/-CONTACT-F59E0B?style=for-the-badge&labelColor=0D1117&logo=googlechat&logoColor=E6EDF3" /></h2>
 
 <div align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://x.com/REPLACE_ME"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=E6EDF3" /></a>
-<a href="https://discord.com/users/REPLACE_ME"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
-<a href="https://orcid.org/REPLACE_ME"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39" /></a>
-<a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C1121F" /></a>
-<a href="https://REPLACE_ME.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=F59E0B" /></a>
-<a href="https://scholar.google.com/citations?user=REPLACE_ME"><img src="https://img.shields.io/badge/Google_Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=14B8A6" /></a>
-<a href="https://github.com/MUKILAN0608"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3" /></a>
+<a href="https://www.linkedin.com/in/mukilan-a-m-a4a59a28b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+
+<a href="https://x.com/Mukilzx" target="_blank">
+  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=E6EDF3" alt="X"/>
+</a>
+
+<a href="https://discord.gg/mukil_nexus_58152" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
+</a>
+
+<a href="https://www.reddit.com/user/Bubbly_Distance_7627/" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0D1117" alt="Reddit"/>
+</a>
+
+<a href="https://orcid.org/0009-0002-2747-1323" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/>
+</a>
+
+<a href="mailto:ammukilan06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C1121F" alt="Email"/>
+</a>
+
+</div>
 
 </div>
 
